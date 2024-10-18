@@ -26,7 +26,7 @@ This program works exactly like HGSSAssistant, but used for the [Battle Subway](
 
 ### SubwayDoublesAssistant.py
 
-This program will extends SubwayAssistant to Double Battles, displaying up to 4 Pokemon sets. 
+This program extends SubwayAssistant to Double Battles, displaying up to 4 Pokemon sets. 
 
 ## Generation VI
 
