@@ -1,0 +1,781 @@
+﻿Entry,Species,Name,Instance,Nature,Item,Move 1,Move 2,Move 3,Move 4,EVs,Speed,Name2,Instance2
+281,Abomasnow,Abomasnow 281,P 281,Impish,Leftovers,Frost Breath,Icy Wind,Leech Seed,Ingrain,HP/Def/SpD,80,Abomasnow 1,1
+456,Abomasnow,Abomasnow 456,P 456,Lonely,Miracle Seed,Wood Hammer,Brick Break,Double Team,Blizzard,HP/Atk/SpA,80,Abomasnow 2,2
+631,Abomasnow,Abomasnow 631,P 631,Quiet,Focus Sash,Blizzard,Wood Hammer,Focus Blast,Ice Shard,HP/SpA,72,Abomasnow 3,3
+806,Abomasnow,Abomasnow 806,P 806,Quiet,Occa Berry,Blizzard,Focus Blast,Protect,Ice Shard,HP/SpA,72,Abomasnow 4,4
+235,Absol,Absol 235,P 235,Careful,Sitrus Berry,Payback,Mean Look,Hone Claws,Baton Pass,HP/Def/SpD,95,Absol 1,1
+410,Absol,Absol 410,P 410,Adamant,Chople Berry,Sucker Punch,Magic Coat,Psycho Cut,Taunt,HP/Atk,95,Absol 2,2
+585,Absol,Absol 585,P 585,Jolly,Scope Lens,Night Slash,Zen Headbutt,Sucker Punch,Superpower,Atk/Spe,139,Absol 3,3
+760,Absol,Absol 760,P 760,Jolly,BrightPowder,Substitute,Swagger,Punishment,Will-O-Wisp,Atk/Spe,139,Absol 4,4
+292,Accelgor,Accelgor 292,P 292,Hasty,Focus Sash,Encore,Bug Buzz,Giga Drain,Me First,Spe/SpA,216,Accelgor 1,1
+467,Accelgor,Accelgor 467,P 467,Modest,Petaya Berry,Energy Ball,Sludge Bomb,Bug Buzz,Endure,Spe/SpA,197,Accelgor 2,2
+642,Accelgor,Accelgor 642,P 642,Timid,Focus Sash,U-turn,Bug Buzz,Focus Blast,Final Gambit,HP/Spe,216,Accelgor 3,3
+817,Accelgor,Accelgor 817,P 817,Timid,Focus Sash,Bug Buzz,Encore,Focus Blast,Protect,Spe/SpA,216,Accelgor 4,4
+329,Aerodactyl,Aerodactyl 329,P 329,Jolly,Choice Band,Rock Slide,,,,Atk/Spe,200,Aerodactyl 1,1
+504,Aerodactyl,Aerodactyl 504,P 504,Naive,Passho Berry,Crunch,Rock Slide,Roost,Sky Drop,Atk/Spe,200,Aerodactyl 2,2
+679,Aerodactyl,Aerodactyl 679,P 679,Jolly,Rock Gem,Taunt,Earthquake,Rock Slide,Crunch,Atk/Spe,200,Aerodactyl 3,3
+854,Aerodactyl,Aerodactyl 854,P 854,Jolly,Choice Band,Stone Edge,Aerial Ace,Earthquake,Crunch,Atk/Spe,200,Aerodactyl 4,4
+354,Aggron,Aggron 354,P 354,Impish,Focus Sash,Protect,Roar,Stealth Rock,Metal Burst,HP/SpD,70,Aggron 1,1
+529,Aggron,Aggron 529,P 529,Brave,King's Rock,Thunder Wave,Iron Head,Fling,Stomp,HP/Atk,63,Aggron 2,2
+704,Aggron,Aggron 704,P 704,Adamant,Steel Gem,Iron Tail,Dragon Rush,Avalanche,Aerial Ace,Atk/Def,70,Aggron 3,3
+879,Aggron,Aggron 879,P 879,Brave,Focus Sash,Metal Burst,Earthquake,Stone Edge,Shadow Claw,Atk/SpD,63,Aggron 4,4
+273,Alakazam,Alakazam 273,P 273,Timid,TwistedSpoon,Energy Ball,Psychic,Telekinesis,Guard Split,Spe/SpA,189,Alakazam 1,1
+448,Alakazam,Alakazam 448,P 448,Timid,Focus Sash,Psych Up,Encore,Protect,Psychic,Spe/SpA,189,Alakazam 2,2
+623,Alakazam,Alakazam 623,P 623,Timid,Wise Glasses,Psychic,Focus Blast,Signal Beam,Grass Knot,Spe/SpA,189,Alakazam 3,3
+798,Alakazam,Alakazam 798,P 798,Timid,Choice Specs,Psychic,Focus Blast,Disable,Trick,Spe/SpA,189,Alakazam 4,4
+276,Altaria,Altaria 276,P 276,Calm,Pecha Berry,Sing,Cotton Guard,Echoed Voice,Roost,HP/SpD,100,Altaria 1,1
+451,Altaria,Altaria 451,P 451,Lonely,Yache Berry,Dragon Claw,Pluck,Mist,Hone Claws,Atk/SpD,100,Altaria 2,2
+626,Altaria,Altaria 626,P 626,Jolly,Power Herb,Dragon Dance,Dragon Rush,Sky Attack,Earthquake,Atk/Spe,145,Altaria 3,3
+801,Altaria,Altaria 801,P 801,Calm,Sitrus Berry,Cotton Guard,Roost,Flamethrower,Dragon Pulse,HP/SpD,100,Altaria 4,4
+258,Ambipom,Ambipom 258,P 258,Naive,King's Rock,Fake Out,Fling,Thief,U-turn,Atk/Spe,183,Ambipom 1,1
+433,Ambipom,Ambipom 433,P 433,Timid,Focus Sash,Grass Knot,Thunderbolt,Nasty Plot,Counter,Spe/SpA,183,Ambipom 2,2
+608,Ambipom,Ambipom 608,P 608,Jolly,Life Orb,Fake Out,Double Hit,Payback,Brick Break,Atk/Spe,183,Ambipom 3,3
+783,Ambipom,Ambipom 783,P 783,Jolly,King's Rock,Fling,Taunt,Return,Payback,Atk/Spe,183,Ambipom 4,4
+300,Ampharos,Ampharos 300,P 300,Mild,Shuca Berry,Power Gem,Thunder Wave,Discharge,Charge Beam,HP/SpA/SpD,75,Ampharos 1,1
+475,Ampharos,Ampharos 475,P 475,Brave,Lum Berry,Brick Break,ThunderPunch,Screech,Odor Sleuth,HP/Atk/Def,67,Ampharos 2,2
+650,Ampharos,Ampharos 650,P 650,Modest,Chesto Berry,Thunder Wave,Charge Beam,Hyper Beam,Rest,HP/SpA,75,Ampharos 3,3
+825,Ampharos,Ampharos 825,P 825,Quiet,Zoom Lens,Thunder,Focus Blast,Signal Beam,Power Gem,HP/SpA,67,Ampharos 4,4
+375,Arcanine,Arcanine 375,P 375,Modest,Charcoal,Flamethrower,SolarBeam,Incinerate,Sunny Day,Spe/SpA,147,Arcanine 1,1
+550,Arcanine,Arcanine 550,P 550,Naughty,Fire Gem,ExtremeSpeed,Crunch,Overheat,Roar,Atk/Spe,147,Arcanine 2,2
+725,Arcanine,Arcanine 725,P 725,Timid,White Herb,Overheat,Sunny Day,SolarBeam,Dragon Pulse,Spe/SpA,161,Arcanine 3,3
+900,Arcanine,Arcanine 900,P 900,Jolly,Sitrus Berry,Close Combat,Flare Blitz,Crunch,ExtremeSpeed,Atk/Spe,161,Arcanine 4,4
+376,Archeops,Archeops 376,P 376,Jolly,Sitrus Berry,Quick Attack,Acrobatics,Crunch,U-turn,Atk/Spe,178,Archeops 1,1
+551,Archeops,Archeops 551,P 551,Mild,Enigma Berry,Earthquake,Earth Power,Endeavor,AncientPower,Spe/SpA,162,Archeops 2,2
+726,Archeops,Archeops 726,P 726,Jolly,Choice Band,Aerial Ace,Earthquake,Head Smash,U-turn,Atk/Spe,178,Archeops 3,3
+901,Archeops,Archeops 901,P 901,Jolly,Sitrus Berry,Rock Slide,Earthquake,Aerial Ace,Protect,Atk/Spe,178,Archeops 4,4
+285,Armaldo,Armaldo 285,P 285,Brave,Chesto Berry,X-Scissor,Rock Blast,Rest,Curse,HP/SpD,58,Armaldo 1,1
+460,Armaldo,Armaldo 460,P 460,Hasty,Razor Fang,Rock Slide,Earthquake,X-Scissor,Rock Polish,HP/Spe,106,Armaldo 2,2
+635,Armaldo,Armaldo 635,P 635,Adamant,Life Orb,X-Scissor,Rock Slide,Earthquake,Iron Defense,HP/SpD,65,Armaldo 3,3
+810,Armaldo,Armaldo 810,P 810,Adamant,Choice Band,Superpower,Stone Edge,Earthquake,X-Scissor,HP/Atk,65,Armaldo 4,4
+909,Articuno,Articuno 909,P 909,Modest,Icy Rock,Hail,Blizzard,Fly,Roost,HP/SpA,105,Articuno 1,1
+929,Articuno,Articuno 929,P 929,Bold,Lum Berry,Sheer Cold,Mind Reader,Ice Shard,Ice Beam,HP/SpD,105,Articuno 2,2
+949,Articuno,Articuno 949,P 949,Timid,Lum Berry,Blizzard,Reflect,Protect,U-turn,Spe/SpA,150,Articuno 3,3
+969,Articuno,Articuno 969,P 969,Modest,Ice Gem,Tailwind,Blizzard,Sky Drop,Protect,Spe/SpA,137,Articuno 4,4
+287,Bastiodon,Bastiodon 287,P 287,Careful,Enigma Berry,Iron Head,Taunt,Wide Guard,Metal Burst,HP/Atk,50,Bastiodon 1,1
+462,Bastiodon,Bastiodon 462,P 462,Bold,Chesto Berry,Roar,Rest,Block,Iron Defense,HP/Def,50,Bastiodon 2,2
+637,Bastiodon,Bastiodon 637,P 637,Careful,Leftovers,Stone Edge,Fissure,Double Team,Iron Defense,HP/SpD,50,Bastiodon 3,3
+812,Bastiodon,Bastiodon 812,P 812,Brave,Sitrus Berry,Metal Burst,Rock Slide,Wide Guard,Curse,HP/Atk,45,Bastiodon 4,4
+352,Beartic,Beartic 352,P 352,Brave,Sitrus Berry,Shadow Claw,Stone Edge,Avalanche,Bulk Up,Atk/SpA,63,Beartic 1,1
+527,Beartic,Beartic 527,P 527,Rash,NeverMeltIce,Hail,Icy Wind,Grass Knot,Blizzard,HP/SpA,70,Beartic 2,2
+702,Beartic,Beartic 702,P 702,Adamant,Sitrus Berry,Swords Dance,Avalanche,Rock Slide,Brick Break,Atk/Def,70,Beartic 3,3
+877,Beartic,Beartic 877,P 877,Jolly,Lax Incense,Icy Wind,Icicle Crash,Rock Slide,Brick Break,Atk/Spe,112,Beartic 4,4
+280,Bisharp,Bisharp 280,P 280,Lax,Sitrus Berry,Night Slash,Metal Claw,Taunt,Metal Burst,HP/Def,90,Bisharp 1,1
+455,Bisharp,Bisharp 455,P 455,Adamant,Chople Berry,Aerial Ace,Low Sweep,Iron Head,Scary Face,HP/Atk,90,Bisharp 2,2
+630,Bisharp,Bisharp 630,P 630,Jolly,Chople Berry,Iron Head,Night Slash,Low Sweep,Sucker Punch,Atk/Spe,134,Bisharp 3,3
+805,Bisharp,Bisharp 805,P 805,Adamant,Focus Sash,Taunt,Sucker Punch,Rock Smash,Iron Head,HP/Atk,90,Bisharp 4,4
+211,Blastoise,Blastoise 211,P 211,Quiet,Zoom Lens,Aqua Ring,Rock Slide,Aqua Tail,Iron Defense,HP/Def/SpD,88,Blastoise 1,1
+386,Blastoise,Blastoise 386,P 386,Quiet,Zoom Lens,Hydro Pump,Ice Beam,Mist,Focus Blast,HP/SpA,88,Blastoise 2,2
+561,Blastoise,Blastoise 561,P 561,Adamant,Leftovers,Fake Out,Earthquake,Aqua Tail,Avalanche,HP/Atk,98,Blastoise 3,3
+736,Blastoise,Blastoise 736,P 736,Adamant,Custap Berry,Yawn,Waterfall,Focus Punch,Rock Slide,HP/Atk,98,Blastoise 4,4
+216,Blaziken,Blaziken 216,P 216,Naughty,Salac Berry,Hi Jump Kick,Counter,Flamethrower,Will-O-Wisp,HP/Def/Spe,121,Blaziken 1,1
+391,Blaziken,Blaziken 391,P 391,Adamant,Salac Berry,Blaze Kick,Flame Charge,Endure,Reversal,HP/Atk/Spe,121,Blaziken 2,2
+566,Blaziken,Blaziken 566,P 566,Hardy,Choice Band,Flare Blitz,Shadow Claw,ThunderPunch,Earthquake,Atk/Spe,132,Blaziken 3,3
+741,Blaziken,Blaziken 741,P 741,Hardy,Shuca Berry,Flame Charge,Flare Blitz,ThunderPunch,Low Kick,Atk/Spe,132,Blaziken 4,4
+368,Blissey,Blissey 368,P 368,Calm,Leftovers,Attract,Thunder Wave,Heal Pulse,Aromatherapy,Def/SpD,75,Blissey 1,1
+543,Blissey,Blissey 543,P 543,Modest,Custap Berry,Charge Beam,Shadow Ball,Grass Knot,Thunder Wave,Def/SpA,75,Blissey 2,2
+718,Blissey,Blissey 718,P 718,Bold,Leftovers,Thunderbolt,Ice Beam,Counter,Calm Mind,HP/Def,75,Blissey 3,3
+893,Blissey,Blissey 893,P 893,Bold,Chople Berry,Toxic,Minimize,Mud Bomb,Softboiled,Def/SpD,75,Blissey 4,4
+353,Bouffalant,Bouffalant 353,P 353,Adamant,Silk Scarf,Head Charge,Pursuit,Scary Face,Aerial Ace,HP/Atk,75,Bouffalant 1,1
+528,Bouffalant,Bouffalant 528,P 528,Brave,Chople Berry,Pursuit,Revenge,Retaliate,Swagger,HP/Atk,67,Bouffalant 2,2
+703,Bouffalant,Bouffalant 703,P 703,Adamant,Sitrus Berry,Swords Dance,Earthquake,Head Charge,Payback,HP/Atk,75,Bouffalant 3,3
+878,Bouffalant,Bouffalant 878,P 878,Adamant,Life Orb,Earthquake,Head Charge,Payback,Protect,HP/Atk,75,Bouffalant 4,4
+327,Braviary,Braviary 327,P 327,Adamant,King's Rock,Rock Slide,Air Slash,Tailwind,Sky Drop,Atk/Def/SpD,100,Braviary 1,1
+502,Braviary,Braviary 502,P 502,Naughty,Persim Berry,Thrash,Bulk Up,Superpower,Pluck,Atk/Spe,132,Braviary 2,2
+677,Braviary,Braviary 677,P 677,Adamant,Flying Gem,Brave Bird,Return,U-turn,Rock Slide,Atk/Spe,132,Braviary 3,3
+852,Braviary,Braviary 852,P 852,Adamant,Wacan Berry,Brave Bird,Tailwind,Superpower,Giga Impact,Atk/Spe,132,Braviary 4,4
+232,Breloom,Breloom 232,P 232,Brave,Black Belt,Fake Tears,Helping Hand,Mach Punch,Stun Spore,HP/Atk,81,Breloom 1,1
+407,Breloom,Breloom 407,P 407,Jolly,Toxic Orb,Substitute,Seed Bomb,Wake-Up Slap,Spore,Atk/Spe,134,Breloom 2,2
+582,Breloom,Breloom 582,P 582,Jolly,Focus Sash,Spore,Focus Punch,Rock Slide,Seed Bomb,Atk/Spe,134,Breloom 3,3
+757,Breloom,Breloom 757,P 757,Careful,Toxic Orb,Protect,Leech Seed,Substitute,Focus Punch,HP/Def/SpD,90,Breloom 4,4
+310,Bronzong,Bronzong 310,P 310,Impish,Sitrus Berry,Hypnosis,Rain Dance,Gyro Ball,Trick Room,HP/Def/SpD,53,Bronzong 1,1
+485,Bronzong,Bronzong 485,P 485,Quiet,Damp Rock,Rain Dance,Light Screen,Charge Beam,Grass Knot,HP/SpA,47,Bronzong 2,2
+660,Bronzong,Bronzong 660,P 660,Adamant,Quick Claw,Iron Head,Zen Headbutt,Earthquake,Explosion,HP/Atk,53,Bronzong 3,3
+835,Bronzong,Bronzong 835,P 835,Brave,Lum Berry,Safeguard,Rock Slide,Zen Headbutt,Trick Room,HP/Atk,47,Bronzong 4,4
+290,Carracosta,Carracosta 290,P 290,Naughty,Sitrus Berry,Aqua Tail,Rock Slide,Shell Smash,Iron Defense,HP/Atk,52,Carracosta 1,1
+465,Carracosta,Carracosta 465,P 465,Rash,Wide Lens,Rock Slide,Swagger,Blizzard,Hydro Pump,HP/SpA,52,Carracosta 2,2
+640,Carracosta,Carracosta 640,P 640,Adamant,Damp Rock,Rain Dance,Waterfall,Rock Slide,Earthquake,Atk/Spe,84,Carracosta 3,3
+815,Carracosta,Carracosta 815,P 815,Adamant,Rindo Berry,Waterfall,Rock Slide,Aqua Jet,Earthquake,Atk/Spe,84,Carracosta 4,4
+339,Chandelure,Chandelure 339,P 339,Modest,Spell Tag,Flamethrower,Confuse Ray,Will-O-Wisp,Hex,HP/Spe/SpA,121,Chandelure 1,1
+514,Chandelure,Chandelure 514,P 514,Timid,Chesto Berry,Energy Ball,Rest,Heat Wave,Will-O-Wisp,HP/Spe,145,Chandelure 2,2
+689,Chandelure,Chandelure 689,P 689,Modest,White Herb,Overheat,Shadow Ball,Protect,Will-O-Wisp,HP/SpA,100,Chandelure 3,3
+864,Chandelure,Chandelure 864,P 864,Bold,Leftovers,Calm Mind,Will-O-Wisp,Shadow Ball,Heat Wave,HP/SpD,100,Chandelure 4,4
+210,Charizard,Charizard 210,P 210,Adamant,Salac Berry,Dragon Claw,Flame Charge,Belly Drum,Substitute,HP/Spe/SpD,141,Charizard 1,1
+385,Charizard,Charizard 385,P 385,Adamant,Charti Berry,Dragon Claw,Shadow Claw,Rock Slide,Dragon Dance,Atk/Spe,152,Charizard 2,2
+560,Charizard,Charizard 560,P 560,Mild,Choice Scarf,Heat Wave,Rock Slide,Air Slash,Crunch,Atk/Spe/SpA,211,Charizard 3,3
+735,Charizard,Charizard 735,P 735,Adamant,Salac Berry,Belly Drum,Substitute,Fire Punch,Earthquake,HP/Atk/Spe,141,Charizard 4,4
+309,Claydol,Claydol 309,P 309,Calm,Absorb Bulb,Psychic,Ice Beam,Protect,Calm Mind,HP/SpD,95,Claydol 1,1
+484,Claydol,Claydol 484,P 484,Impish,Sitrus Berry,Sandstorm,Toxic,Cosmic Power,Explosion,HP/Def,95,Claydol 2,2
+659,Claydol,Claydol 659,P 659,Modest,Ground Gem,Earth Power,Psychic,Ally Switch,Ice Beam,SpA/SpD,95,Claydol 3,3
+834,Claydol,Claydol 834,P 834,Adamant,Custap Berry,Earthquake,Zen Headbutt,Rock Slide,Explosion,Atk/SpD,95,Claydol 4,4
+918,Cobalion,Cobalion 918,P 918,Bold,Chesto Berry,Focus Blast,Flash Cannon,Calm Mind,Rest,HP/SpD,128,Cobalion 1,1
+938,Cobalion,Cobalion 938,P 938,Brave,Sitrus Berry,Metal Burst,Sacred Sword,Quick Attack,Iron Head,HP/Atk,115,Cobalion 2,2
+958,Cobalion,Cobalion 958,P 958,Jolly,Lax Incense,Swagger,Substitute,Psych Up,Iron Head,Atk/Spe,176,Cobalion 3,3
+978,Cobalion,Cobalion 978,P 978,Jolly,Life Orb,Iron Head,Close Combat,Quick Guard,Protect,Atk/Spe,176,Cobalion 4,4
+259,Cofagrigus,Cofagrigus 259,P 259,Sassy,Chesto Berry,Night Shade,Will-O-Wisp,Mean Look,Rest,HP/SpD,45,Cofagrigus 1,1
+434,Cofagrigus,Cofagrigus 434,P 434,Quiet,Spell Tag,Shadow Ball,Energy Ball,Will-O-Wisp,Nasty Plot,HP/SpA,45,Cofagrigus 2,2
+609,Cofagrigus,Cofagrigus 609,P 609,Quiet,Sitrus Berry,Will-O-Wisp,Shadow Ball,Destiny Bond,Trick Room,HP/SpA,45,Cofagrigus 3,3
+784,Cofagrigus,Cofagrigus 784,P 784,Bold,Leftovers,Will-O-Wisp,Toxic,Hex,Calm Mind,HP/SpD,50,Cofagrigus 4,4
+319,Conkeldurr,Conkeldurr 319,P 319,Bold,Black Belt,Rock Slide,Force Palm,SmellingSalt,Bulk Up,HP/Def/SpD,65,Conkeldurr 1,1
+494,Conkeldurr,Conkeldurr 494,P 494,Brave,Iron Ball,Mach Punch,Hammer Arm,Bulk Up,Fling,Atk/SpD,29,Conkeldurr 2,2
+669,Conkeldurr,Conkeldurr 669,P 669,Adamant,Sitrus Berry,Bulk Up,Drain Punch,Payback,Stone Edge,Atk/SpD,65,Conkeldurr 3,3
+844,Conkeldurr,Conkeldurr 844,P 844,Brave,Iron Ball,Fling,Rock Slide,Superpower,Mach Punch,Atk/SpD,29,Conkeldurr 4,4
+284,Cradily,Cradily 284,P 284,Bold,Charti Berry,Stealth Rock,Gastro Acid,Stockpile,Swallow,Def/SpD,63,Cradily 1,1
+459,Cradily,Cradily 459,P 459,Brave,Quick Claw,Confuse Ray,Energy Ball,Stone Edge,Earthquake,HP/Atk/SpA,56,Cradily 2,2
+634,Cradily,Cradily 634,P 634,Relaxed,Leftovers,Sandstorm,Toxic,Protect,Earthquake,HP/Def,56,Cradily 3,3
+809,Cradily,Cradily 809,P 809,Sassy,Big Root,Stockpile,Protect,Ingrain,Giga Drain,HP/Def,56,Cradily 4,4
+926,Cresselia,Cresselia 926,P 926,Bold,Chesto Berry,Calm Mind,Psychic,Shadow Ball,Rest,HP/Def,105,Cresselia 1,1
+946,Cresselia,Cresselia 946,P 946,Bold,Leftovers,Double Team,Moonlight,Toxic,Protect,HP/SpD,105,Cresselia 2,2
+966,Cresselia,Cresselia 966,P 966,Bold,Lum Berry,Icy Wind,Safeguard,Helping Hand,Swagger,HP/SpD,105,Cresselia 3,3
+986,Cresselia,Cresselia 986,P 986,Bold,BrightPowder,Psychic,Substitute,Toxic,Trick Room,HP/SpD,105,Cresselia 4,4
+358,Crobat,Crobat 358,P 358,Jolly,Charti Berry,Cross Poison,X-Scissor,Hypnosis,U-turn,Atk/Spe,200,Crobat 1,1
+533,Crobat,Crobat 533,P 533,Timid,Sharp Beak,Air Slash,Shadow Ball,Confuse Ray,Nasty Plot,Spe/SpA,200,Crobat 2,2
+708,Crobat,Crobat 708,P 708,Jolly,Razor Claw,Cross Poison,Brave Bird,Zen Headbutt,X-Scissor,Atk/Spe,200,Crobat 3,3
+883,Crobat,Crobat 883,P 883,Jolly,Wide Lens,Hypnosis,Aerial Ace,Cross Poison,Taunt,Atk/Spe,200,Crobat 4,4
+268,Cryogonal,Cryogonal 268,P 268,Timid,Charti Berry,Icy Wind,Ice Beam,Confuse Ray,Light Screen,Def/Spe,172,Cryogonal 1,1
+443,Cryogonal,Cryogonal 443,P 443,Hasty,Occa Berry,Ice Shard,Slash,Poison Jab,Haze,Atk/Spe,172,Cryogonal 2,2
+618,Cryogonal,Cryogonal 618,P 618,Timid,Occa Berry,Icy Wind,Flash Cannon,Blizzard,Sheer Cold,Spe/SpA,172,Cryogonal 3,3
+793,Cryogonal,Cryogonal 793,P 793,Naive,Focus Sash,Hail,Icy Wind,Blizzard,Explosion,Spe/SpA,172,Cryogonal 4,4
+257,Darmanitan,Darmanitan 257,P 257,Hasty,Passho Berry,Fire Punch,Encore,Belly Drum,Brick Break,Atk/Spe,161,Darmanitan 1,1
+432,Darmanitan,Darmanitan 432,P 432,Naughty,Life Orb,Focus Energy,Hammer Arm,Flare Blitz,Swagger,HP/Atk/Spe,136,Darmanitan 2,2
+607,Darmanitan,Darmanitan 607,P 607,Jolly,Liechi Berry,Flame Charge,Earthquake,Flare Blitz,Brick Break,Atk/Spe,161,Darmanitan 3,3
+782,Darmanitan,Darmanitan 782,P 782,Impish,Sitrus Berry,Belly Drum,Earthquake,Fire Punch,Yawn,Def/SpD,115,Darmanitan 4,4
+240,Dewgong,Dewgong 240,P 240,Mild,Icy Rock,Icy Wind,Toxic,Rest,Hail,HP/Def,90,Dewgong 1,1
+415,Dewgong,Dewgong 415,P 415,Rash,NeverMeltIce,Ice Shard,Signal Beam,Ice Beam,Encore,Spe/SpA,122,Dewgong 2,2
+590,Dewgong,Dewgong 590,P 590,Mild,Quick Claw,Fake Out,Surf,Ice Beam,Aqua Jet,SpA/SpD,90,Dewgong 3,3
+765,Dewgong,Dewgong 765,P 765,Bold,Salac Berry,Rain Dance,Rest,Surf,Stockpile,HP/Def/SpD,90,Dewgong 4,4
+307,Donphan,Donphan 307,P 307,Brave,Metronome,Earthquake,Scary Face,Rollout,Defense Curl,Atk/Def,63,Donphan 1,1
+482,Donphan,Donphan 482,P 482,Adamant,Focus Sash,Endeavor,Flail,Roar,Giga Impact,Atk/SpD,70,Donphan 2,2
+657,Donphan,Donphan 657,P 657,Brave,Sitrus Berry,Earthquake,Gyro Ball,Fire Fang,Thunder Fang,Atk/Def,63,Donphan 3,3
+832,Donphan,Donphan 832,P 832,Adamant,Quick Claw,Earthquake,Stone Edge,Seed Bomb,Fissure,Atk/SpD,70,Donphan 4,4
+377,Dragonite,Dragonite 377,P 377,Impish,Custap Berry,Toxic,Thunder Wave,Roost,Rock Slide,HP/Def/SpD,100,Dragonite 1,1
+552,Dragonite,Dragonite 552,P 552,Mild,Salac Berry,Dragon Rush,Ice Beam,Thunderbolt,Safeguard,Spe/SpA,132,Dragonite 2,2
+727,Dragonite,Dragonite 727,P 727,Adamant,Choice Band,Outrage,Earthquake,Giga Impact,Superpower,Atk/SpD,100,Dragonite 3,3
+902,Dragonite,Dragonite 902,P 902,Adamant,Quick Claw,Superpower,Earthquake,ThunderPunch,Fire Punch,HP/Atk,100,Dragonite 4,4
+311,Drapion,Drapion 311,P 311,Bold,Scope Lens,Night Slash,Taunt,Toxic Spikes,X-Scissor,HP/Def,115,Drapion 1,1
+486,Drapion,Drapion 486,P 486,Naive,Dark Gem,Cross Poison,Crunch,Scary Face,Screech,Atk/Spe,161,Drapion 2,2
+661,Drapion,Drapion 661,P 661,Jolly,Scope Lens,Cross Poison,Night Slash,Fire Fang,Earthquake,Atk/Spe,161,Drapion 3,3
+836,Drapion,Drapion 836,P 836,Careful,Razor Claw,Cross Poison,Night Slash,Earthquake,Swords Dance,HP/Atk,115,Drapion 4,4
+294,Drifblim,Drifblim 294,P 294,Bold,Salac Berry,Calm Mind,Stockpile,Memento,Baton Pass,Def/SpD,100,Drifblim 1,1
+469,Drifblim,Drifblim 469,P 469,Mild,Cell Battery,Hex,Thunderbolt,Dream Eater,Hypnosis,Spe/SpA,132,Drifblim 2,2
+644,Drifblim,Drifblim 644,P 644,Timid,Wise Glasses,Shadow Ball,Thunderbolt,Icy Wind,Destiny Bond,Def/Spe,145,Drifblim 3,3
+819,Drifblim,Drifblim 819,P 819,Bold,Custap Berry,Shadow Ball,Thunderbolt,Hypnosis,Destiny Bond,Spe/SpD,132,Drifblim 4,4
+269,Druddigon,Druddigon 269,P 269,Bold,Chople Berry,Crunch,Scary Face,Glare,Dragon Tail,Atk/Def,68,Druddigon 1,1
+444,Druddigon,Druddigon 444,P 444,Lonely,Scope Lens,Dragon Claw,Night Slash,Slash,Hone Claws,HP/Def/SpD,68,Druddigon 2,2
+619,Druddigon,Druddigon 619,P 619,Adamant,Quick Claw,Crunch,Dragon Claw,Earthquake,Rock Slide,HP/Atk,68,Druddigon 3,3
+794,Druddigon,Druddigon 794,P 794,Adamant,Choice Band,Outrage,Earthquake,Superpower,Dragon Tail,HP/Atk,68,Druddigon 4,4
+224,Dugtrio,Dugtrio 224,P 224,Hasty,Focus Sash,Reversal,Attract,Dig,Protect,Atk/Spe,189,Dugtrio 1,1
+399,Dugtrio,Dugtrio 399,P 399,Lonely,Choice Band,Protect,Final Gambit,Earthquake,Rock Slide,HP/Spe,172,Dugtrio 2,2
+574,Dugtrio,Dugtrio 574,P 574,Jolly,Choice Band,Earthquake,Rock Slide,Reversal,Aerial Ace,Atk/Spe,189,Dugtrio 3,3
+749,Dugtrio,Dugtrio 749,P 749,Jolly,BrightPowder,Toxic,Dig,Substitute,Sandstorm,Atk/Spe,189,Dugtrio 4,4
+261,Durant,Durant 261,P 261,Naive,Sitrus Berry,Crunch,Dig,Bug Bite,Metal Sound,HP/Atk/Spe,165,Durant 1,1
+436,Durant,Durant 436,P 436,Impish,Power Herb,Dig,Iron Defense,Agility,Baton Pass,Def/Spe,161,Durant 2,2
+611,Durant,Durant 611,P 611,Jolly,Occa Berry,X-Scissor,Iron Head,Rock Slide,Shadow Claw,Atk/Spe,177,Durant 3,3
+786,Durant,Durant 786,P 786,Jolly,Focus Sash,Entrainment,X-Scissor,Iron Head,Protect,HP/Spe,177,Durant 4,4
+350,Dusknoir,Dusknoir 350,P 350,Bold,Leftovers,Disable,Will-O-Wisp,Pain Split,Mean Look,HP/Def,65,Dusknoir 1,1
+525,Dusknoir,Dusknoir 525,P 525,Brave,Iron Ball,Shadow Sneak,Fire Punch,Fling,Trick Room,HP/Atk,29,Dusknoir 2,2
+700,Dusknoir,Dusknoir 700,P 700,Sassy,Leftovers,Toxic,Will-O-Wisp,Protect,Double Team,HP/SpD,58,Dusknoir 3,3
+875,Dusknoir,Dusknoir 875,P 875,Relaxed,Lum Berry,Shadow Sneak,Pain Split,Destiny Bond,Trick Room,HP/SpD,58,Dusknoir 4,4
+364,Eelektross,Eelektross 364,P 364,Quiet,Magnet,Discharge,Gastro Acid,Thunderbolt,Thunder Wave,HP/SpA,63,Eelektross 1,1
+539,Eelektross,Eelektross 539,P 539,Naughty,Expert Belt,Crunch,Wild Charge,Brick Break,Coil,HP/Atk,70,Eelektross 2,2
+714,Eelektross,Eelektross 714,P 714,Brave,Sitrus Berry,Brick Break,U-turn,Grass Knot,Wild Charge,HP/Atk,63,Eelektross 3,3
+889,Eelektross,Eelektross 889,P 889,Bold,Leftovers,Charge Beam,Grass Knot,Flamethrower,Protect,HP/SpD,70,Eelektross 4,4
+370,Electivire,Electivire 370,P 370,Naughty,Expert Belt,Low Kick,Dig,Rock Slide,Screech,HP/Atk/Spe,136,Electivire 1,1
+545,Electivire,Electivire 545,P 545,Adamant,Shuca Berry,Fire Punch,Electro Ball,Ice Punch,Protect,HP/Atk/Spe,136,Electivire 2,2
+720,Electivire,Electivire 720,P 720,Modest,Air Balloon,Thunderbolt,Psychic,Focus Blast,Signal Beam,Spe/SpA,147,Electivire 3,3
+895,Electivire,Electivire 895,P 895,Jolly,Shuca Berry,ThunderPunch,Fire Punch,Ice Punch,Earthquake,Atk/Spe,161,Electivire 4,4
+250,Electrode,Electrode 250,P 250,Calm,Shuca Berry,Swagger,Light Screen,Charge Beam,Thunder Wave,HP/SpD,160,Electrode 1,1
+425,Electrode,Electrode 425,P 425,Hasty,Focus Sash,Electro Ball,Taunt,Protect,Explosion,,176,Electrode 2,2
+600,Electrode,Electrode 600,P 600,Timid,Air Balloon,Thunderbolt,Mirror Coat,Signal Beam,Protect,Spe/SpA,211,Electrode 3,3
+775,Electrode,Electrode 775,P 775,Timid,Damp Rock,Rain Dance,Thunder,Taunt,Light Screen,Spe/SpA,211,Electrode 4,4
+222,Emboar,Emboar 222,P 222,Careful,Chesto Berry,Gyro Ball,Curse,Rest,Sleep Talk,HP/SpD,85,Emboar 1,1
+397,Emboar,Emboar 397,P 397,Brave,Quick Claw,Yawn,Wild Charge,Bulldoze,Heat Crash,Atk/Def/SpD,76,Emboar 2,2
+572,Emboar,Emboar 572,P 572,Adamant,Quick Claw,Flare Blitz,Brick Break,Flame Charge,Earthquake,Atk/Def/SpD,85,Emboar 3,3
+747,Emboar,Emboar 747,P 747,Timid,Salac Berry,Substitute,Flamethrower,Focus Blast,Scald,Spe/SpA,128,Emboar 4,4
+220,Empoleon,Empoleon 220,P 220,Lax,Sitrus Berry,Yawn,Swords Dance,Aqua Jet,Metal Claw,HP/Def,80,Empoleon 1,1
+395,Empoleon,Empoleon 395,P 395,Lonely,Muscle Band,Drill Peck,Aqua Jet,Metal Claw,FeatherDance,HP/Atk/SpD,80,Empoleon 2,2
+570,Empoleon,Empoleon 570,P 570,Quiet,Lum Berry,Surf,Ice Beam,Signal Beam,Icy Wind,HP/SpA,72,Empoleon 3,3
+745,Empoleon,Empoleon 745,P 745,Calm,Petaya Berry,Surf,Substitute,Blizzard,Whirlpool,HP/SpA,80,Empoleon 4,4
+913,Entei,Entei 913,P 913,Lonely,Focus Sash,Overheat,Flame Charge,Fire Fang,Stone Edge,Atk/Spe,152,Entei 1,1
+933,Entei,Entei 933,P 933,Bold,Chesto Berry,Calm Mind,Will-O-Wisp,Flamethrower,Rest,HP/Def/SpD,120,Entei 2,2
+953,Entei,Entei 953,P 953,Timid,Choice Scarf,Eruption,Heat Wave,Extrasensory,SolarBeam,Spe/SpA,250,Entei 3,3
+973,Entei,Entei 973,P 973,Adamant,Life Orb,Overheat,Double-Edge,Stone Edge,Protect,HP/Atk,120,Entei 4,4
+291,Escavalier,Escavalier 291,P 291,Brave,Liechi Berry,Megahorn,Quick Guard,Swords Dance,Reversal,HP/Atk,36,Escavalier 1,1
+466,Escavalier,Escavalier 466,P 466,Naughty,Quick Claw,Pursuit,Counter,X-Scissor,Swords Dance,HP/Atk,40,Escavalier 2,2
+641,Escavalier,Escavalier 641,P 641,Brave,Life Orb,Megahorn,Iron Defense,Poison Jab,Iron Head,HP/Atk,36,Escavalier 3,3
+816,Escavalier,Escavalier 816,P 816,Adamant,Custap Berry,Megahorn,Iron Head,Swagger,Reversal,HP/Atk,40,Escavalier 4,4
+343,Espeon,Espeon 343,P 343,Naive,Focus Sash,Yawn,Dream Eater,Calm Mind,Protect,Spe/SpA,178,Espeon 1,1
+518,Espeon,Espeon 518,P 518,Timid,Kasib Berry,Psyshock,Grass Knot,Telekinesis,Charm,HP/Spe,178,Espeon 2,2
+693,Espeon,Espeon 693,P 693,Modest,Lum Berry,Psychic,Shadow Ball,Hyper Beam,Grass Knot,Spe/SpA,162,Espeon 3,3
+868,Espeon,Espeon 868,P 868,Timid,Psychic Gem,Psychic,Shadow Ball,Signal Beam,Morning Sun,Spe/SpA,178,Espeon 4,4
+320,Excadrill,Excadrill 320,P 320,Naughty,Soft Sand,Hone Claws,Rock Slide,Drill Run,Iron Defense,Atk/Def,108,Excadrill 1,1
+495,Excadrill,Excadrill 495,P 495,Adamant,Chople Berry,Dig,Metal Sound,Metal Claw,Swords Dance,Atk/Def,108,Excadrill 2,2
+670,Excadrill,Excadrill 670,P 670,Adamant,BrightPowder,Sandstorm,Earthquake,Rock Slide,Poison Jab,Atk/Def/SpD,108,Excadrill 3,3
+845,Excadrill,Excadrill 845,P 845,Adamant,Life Orb,Earthquake,Aerial Ace,Poison Jab,Rock Slide,Atk/Def/SpD,108,Excadrill 4,4
+335,Exeggutor,Exeggutor 335,P 335,Mild,Petaya Berry,Psyshock,Grass Knot,Light Screen,Synthesis,Spe/SpA/SpD,96,Exeggutor 1,1
+510,Exeggutor,Exeggutor 510,P 510,Brave,Sitrus Berry,Wood Hammer,Curse,Egg Bomb,Synthesis,Atk/Spe/SpD,86,Exeggutor 2,2
+685,Exeggutor,Exeggutor 685,P 685,Modest,Expert Belt,Leaf Storm,Psychic,Sludge Bomb,AncientPower,HP/SpA,75,Exeggutor 3,3
+860,Exeggutor,Exeggutor 860,P 860,Brave,Lum Berry,Wood Hammer,Zen Headbutt,Explosion,Trick Room,HP/Atk,67,Exeggutor 4,4
+253,Exploud,Exploud 253,P 253,Mild,Chople Berry,Fire Blast,Roar,Uproar,Hyper Voice,Atk/SpA,88,Exploud 1,1
+428,Exploud,Exploud 428,P 428,Lonely,Chople Berry,Crunch,Fake Tears,Ice Beam,Giga Impact,Atk/SpA,88,Exploud 2,2
+603,Exploud,Exploud 603,P 603,Adamant,Expert Belt,Earthquake,Brick Break,Ice Punch,Crunch,Atk/Def,88,Exploud 3,3
+778,Exploud,Exploud 778,P 778,Timid,Life Orb,Icy Wind,Hyper Voice,Focus Blast,Shadow Ball,Spe/SpA,132,Exploud 4,4
+214,Feraligatr,Feraligatr 214,P 214,Careful,Lax Incense,Screech,Aqua Jet,Earthquake,Block,HP/SpD,98,Feraligatr 1,1
+389,Feraligatr,Feraligatr 389,P 389,Adamant,Liechi Berry,Superpower,Aqua Tail,Ice Fang,Dragon Dance,HP/Atk/Spe,119,Feraligatr 2,2
+564,Feraligatr,Feraligatr 564,P 564,Adamant,Lum Berry,Aqua Jet,Waterfall,Earthquake,Ice Punch,HP/Atk/SpA/SpD,98,Feraligatr 3,3
+739,Feraligatr,Feraligatr 739,P 739,Adamant,Liechi Berry,Dragon Dance,Waterfall,Crunch,Substitute,Atk/Spe,130,Feraligatr 4,4
+272,Ferrothorn,Ferrothorn 272,P 272,Impish,Leftovers,Iron Head,Thunder Wave,Sandstorm,Ingrain,HP/Def,40,Ferrothorn 1,1
+447,Ferrothorn,Ferrothorn 447,P 447,Careful,Chesto Berry,Rest,Payback,Gyro Ball,Curse,HP/SpD,40,Ferrothorn 2,2
+622,Ferrothorn,Ferrothorn 622,P 622,Brave,Custap Berry,Protect,Payback,Explosion,Gyro Ball,HP/Atk,36,Ferrothorn 3,3
+797,Ferrothorn,Ferrothorn 797,P 797,Sassy,Leftovers,Curse,Rock Smash,Gyro Ball,Ingrain,HP/SpD,36,Ferrothorn 4,4
+342,Flareon,Flareon 342,P 342,Naughty,Focus Sash,Dig,Flail,Work Up,Fire Blast,Atk/SpA,85,Flareon 1,1
+517,Flareon,Flareon 517,P 517,Impish,Charcoal,Will-O-Wisp,Charm,Flame Charge,Protect,HP/Def,85,Flareon 2,2
+692,Flareon,Flareon 692,P 692,Brave,White Herb,Superpower,Return,Will-O-Wisp,Overheat,HP/Atk,76,Flareon 3,3
+867,Flareon,Flareon 867,P 867,Adamant,White Herb,Bite,Superpower,Giga Impact,Fire Fang,Atk/SpD,85,Flareon 4,4
+288,Floatzel,Floatzel 288,P 288,Naive,Binding Band,Aqua Tail,Protect,Pursuit,Whirlpool,Atk/Spe,183,Floatzel 1,1
+463,Floatzel,Floatzel 463,P 463,Hasty,Flame Orb,Aqua Jet,Switcheroo,Pursuit,Crunch,Atk/Spe,183,Floatzel 2,2
+638,Floatzel,Floatzel 638,P 638,Hasty,Damp Rock,Surf,Ice Beam,Focus Blast,Rain Dance,Spe/SpA,183,Floatzel 3,3
+813,Floatzel,Floatzel 813,P 813,Hasty,Life Orb,Waterfall,Aqua Jet,Low Kick,Protect,Atk/Spe,183,Floatzel 4,4
+337,Flygon,Flygon 337,P 337,Naive,Liechi Berry,Earthquake,Dragon Claw,Endure,Fire Blast,Atk/Spe,167,Flygon 1,1
+512,Flygon,Flygon 512,P 512,Naive,Haban Berry,Swagger,Quick Attack,Rock Slide,U-turn,Atk/Spe,167,Flygon 2,2
+687,Flygon,Flygon 687,P 687,Timid,White Herb,Draco Meteor,Earth Power,Flamethrower,Giga Drain,Spe/SpA,167,Flygon 3,3
+862,Flygon,Flygon 862,P 862,Adamant,Lum Berry,Earthquake,Outrage,Crunch,Stone Edge,Atk/Spe,152,Flygon 4,4
+233,Forretress,Forretress 233,P 233,Impish,Occa Berry,Spikes,Struggle Bug,Stealth Rock,Iron Defense,HP/Def,60,Forretress 1,1
+408,Forretress,Forretress 408,P 408,Naughty,Sitrus Berry,Spikes,Earthquake,Magnet Rise,Gyro Ball,HP/Atk,60,Forretress 2,2
+583,Forretress,Forretress 583,P 583,Brave,Iron Ball,Gyro Ball,Earthquake,Bug Bite,Explosion,HP/Atk,27,Forretress 3,3
+758,Forretress,Forretress 758,P 758,Careful,Custap Berry,Toxic Spikes,Stealth Rock,Spikes,Explosion,HP/SpD,60,Forretress 4,4
+255,Froslass,Froslass 255,P 255,Timid,Icy Rock,Hail,Ice Beam,Ominous Wind,Thunderbolt,Spe/SpA,178,Froslass 1,1
+430,Froslass,Froslass 430,P 430,Lonely,Ice Gem,Ice Shard,Thunder Wave,Hex,Taunt,Atk/Spe,162,Froslass 2,2
+605,Froslass,Froslass 605,P 605,Timid,Icy Rock,Hail,Blizzard,Ice Shard,Shadow Ball,Spe/SpA,178,Froslass 3,3
+780,Froslass,Froslass 780,P 780,Timid,Focus Sash,Blizzard,Icy Wind,Shadow Ball,Destiny Bond,Spe/SpA,178,Froslass 4,4
+334,Gallade,Gallade 334,P 334,Hasty,Expert Belt,Shadow Sneak,Brick Break,Psycho Cut,Swords Dance,Atk/Spe,145,Gallade 1,1
+509,Gallade,Gallade 509,P 509,Jolly,Scope Lens,Psycho Cut,Leaf Blade,Slash,Protect,Atk/Spe,145,Gallade 2,2
+684,Gallade,Gallade 684,P 684,Adamant,Scope Lens,Psycho Cut,Stone Edge,Night Slash,X-Scissor,Atk/SpD,100,Gallade 3,3
+859,Gallade,Gallade 859,P 859,Jolly,Lum Berry,Psycho Cut,Close Combat,Heal Pulse,Ally Switch,Atk/Spe,145,Gallade 4,4
+381,Garchomp,Garchomp 381,P 381,Jolly,Lax Incense,Earthquake,Protect,Sandstorm,Sand Tomb,HP/Spe,169,Garchomp 1,1
+556,Garchomp,Garchomp 556,P 556,Hasty,Razor Fang,Fire Blast,Incinerate,Surf,Scary Face,Spe/SpA,169,Garchomp 2,2
+731,Garchomp,Garchomp 731,P 731,Adamant,Choice Scarf,Outrage,Earthquake,Fire Fang,Crunch,Atk/Spe,231,Garchomp 3,3
+906,Garchomp,Garchomp 906,P 906,Jolly,Focus Sash,Swords Dance,Rock Slide,Earthquake,Dragon Claw,Atk/Spe,169,Garchomp 4,4
+333,Gardevoir,Gardevoir 333,P 333,Naive,Wide Lens,Hypnosis,Calm Mind,Imprison,Taunt,HP/Def/Spe,133,Gardevoir 1,1
+508,Gardevoir,Gardevoir 508,P 508,Naive,Lum Berry,Stored Power,Thunderbolt,Calm Mind,Ally Switch,Spe/SpA,145,Gardevoir 2,2
+683,Gardevoir,Gardevoir 683,P 683,Modest,BrightPowder,Psychic,Charge Beam,Energy Ball,Focus Blast,SpA/SpD,100,Gardevoir 3,3
+858,Gardevoir,Gardevoir 858,P 858,Timid,Psychic Gem,Psychic,Thunderbolt,Shadow Ball,Destiny Bond,Spe/SpA,145,Gardevoir 4,4
+243,Gastrodon,Gastrodon 243,P 243,Gentle,Damp Rock,Rain Dance,Sludge Bomb,Muddy Water,Counter,SpA/SpD,59,Gastrodon 1,1
+418,Gastrodon,Gastrodon 418,P 418,Careful,Rindo Berry,Waterfall,Amnesia,Curse,Yawn,Atk/Def/SpD,59,Gastrodon 2,2
+593,Gastrodon,Gastrodon 593,P 593,Quiet,Leftovers,Sandstorm,Earth Power,Surf,Recover,Def/SpA,53,Gastrodon 3,3
+768,Gastrodon,Gastrodon 768,P 768,Bold,Leftovers,Amnesia,Curse,Earthquake,Waterfall,Def/SpD,59,Gastrodon 4,4
+299,Gengar,Gengar 299,P 299,Timid,Focus Sash,Shadow Ball,Dream Eater,Nightmare,Hypnosis,Spe/SpA,178,Gengar 1,1
+474,Gengar,Gengar 474,P 474,Jolly,Expert Belt,Sucker Punch,Fire Punch,Ice Punch,Will-O-Wisp,Atk/Spe,178,Gengar 2,2
+649,Gengar,Gengar 649,P 649,Timid,Focus Sash,Shadow Ball,Taunt,Focus Blast,Counter,Spe/SpA,178,Gengar 3,3
+824,Gengar,Gengar 824,P 824,Timid,Lum Berry,Sludge Bomb,Thunderbolt,Shadow Ball,Destiny Bond,Spe/SpA,178,Gengar 4,4
+318,Gigalith,Gigalith 318,P 318,Naughty,Rawst Berry,Bulldoze,Rock Blast,Gravity,Curse,HP/Atk/Def,45,Gigalith 1,1
+493,Gigalith,Gigalith 493,P 493,Naughty,Hard Stone,Iron Defense,Sandstorm,Lock-On,Rock Blast,HP/Def,45,Gigalith 2,2
+668,Gigalith,Gigalith 668,P 668,Adamant,Custap Berry,Stone Edge,Earthquake,Sandstorm,Explosion,HP/Atk,45,Gigalith 3,3
+843,Gigalith,Gigalith 843,P 843,Quiet,Leftovers,Rock Slide,Stealth Rock,Curse,Earthquake,HP/SpD,40,Gigalith 4,4
+346,Glaceon,Glaceon 346,P 346,Rash,Quick Claw,Ice Shard,Blizzard,Mirror Coat,Helping Hand,HP/SpA,85,Glaceon 1,1
+521,Glaceon,Glaceon 521,P 521,Bold,Chesto Berry,Frost Breath,Shadow Ball,Rest,Barrier,HP/Def,85,Glaceon 2,2
+696,Glaceon,Glaceon 696,P 696,Modest,Focus Sash,Hail,Blizzard,Mirror Coat,Hyper Beam,Def/SpA,85,Glaceon 3,3
+871,Glaceon,Glaceon 871,P 871,Modest,BrightPowder,Blizzard,Shadow Ball,Signal Beam,Detect,Def/SpA,85,Glaceon 4,4
+324,Gliscor,Gliscor 324,P 324,Naughty,Razor Fang,Acrobatics,Fling,U-turn,Swords Dance,Atk/Spe,147,Gliscor 1,1
+499,Gliscor,Gliscor 499,P 499,Impish,Liechi Berry,Agility,Acrobatics,Swords Dance,Baton Pass,HP/Def,115,Gliscor 2,2
+674,Gliscor,Gliscor 674,P 674,Adamant,Expert Belt,Aerial Ace,Earthquake,X-Scissor,Stone Edge,Atk/Def,115,Gliscor 3,3
+849,Gliscor,Gliscor 849,P 849,Jolly,Focus Sash,Earthquake,Acrobatics,U-turn,Counter,HP/Spe,161,Gliscor 4,4
+262,Golem,Golem 262,P 262,Impish,Hard Stone,Stealth Rock,Curse,Gyro Ball,Smack Down,HP/Atk/Def,65,Golem 1,1
+437,Golem,Golem 437,P 437,Naughty,Absorb Bulb,Rock Slide,Earthquake,Bulldoze,Autotomize,Atk/Spe,97,Golem 2,2
+612,Golem,Golem 612,P 612,Jolly,Focus Sash,Rock Slide,Earthquake,Explosion,Autotomize,Atk/Spe,106,Golem 3,3
+787,Golem,Golem 787,P 787,Brave,Iron Ball,Rock Slide,Earthquake,Explosion,Fling,Atk/SpD,29,Golem 4,4
+260,Golurk,Golurk 260,P 260,Lonely,Muscle Band,Shadow Punch,Iron Defense,Bulldoze,Heavy Slam,HP/SpD,75,Golurk 1,1
+435,Golurk,Golurk 435,P 435,Brave,Wide Lens,Hammer Arm,Rock Slide,Curse,Gyro Ball,Atk/SpD,67,Golurk 2,2
+610,Golurk,Golurk 610,P 610,Adamant,Lum Berry,DynamicPunch,Shadow Punch,Earthquake,Rock Slide,HP/Atk,75,Golurk 3,3
+785,Golurk,Golurk 785,P 785,Brave,Iron Ball,Hammer Arm,Earthquake,Shadow Punch,Fling,HP/Atk,33,Golurk 4,4
+278,Gothitelle,Gothitelle 278,P 278,Sassy,Chesto Berry,Fake Tears,Psychic,Rest,Calm Mind,HP/Def/Spe,95,Gothitelle 1,1
+453,Gothitelle,Gothitelle 453,P 453,Modest,TwistedSpoon,Psyshock,Miracle Eye,Mirror Coat,Tickle,HP/Def/SpA,85,Gothitelle 2,2
+628,Gothitelle,Gothitelle 628,P 628,Modest,Sitrus Berry,Charm,Safeguard,Psychic,Charge Beam,HP/SpA,85,Gothitelle 3,3
+803,Gothitelle,Gothitelle 803,P 803,Modest,BrightPowder,Substitute,Flatter,Psych Up,Psychic,HP/SpA,85,Gothitelle 4,4
+228,Granbull,Granbull 228,P 228,Naughty,Jaboca Berry,Metronome,Attract,Mimic,Return,HP/Def/SpD,65,Granbull 1,1
+403,Granbull,Granbull 403,P 403,Adamant,Silk Scarf,Charm,Double-Edge,Payback,Bulk Up,Atk/Def,65,Granbull 2,2
+578,Granbull,Granbull 578,P 578,Adamant,Lum Berry,Double-Edge,Roar,Crunch,Sludge Bomb,Atk/SpD,65,Granbull 3,3
+753,Granbull,Granbull 753,P 753,Impish,Leftovers,Charm,Toxic,Dig,Protect,HP/Def,65,Granbull 4,4
+365,Gyarados,Gyarados 365,P 365,Lonely,Muscle Band,Ice Fang,Aqua Tail,Thunder Wave,Dragon Dance,HP/Atk/Spe,122,Gyarados 1,1
+540,Gyarados,Gyarados 540,P 540,Naughty,Chesto Berry,Waterfall,Rest,Bulldoze,Giga Impact,Atk/Spe,133,Gyarados 2,2
+715,Gyarados,Gyarados 715,P 715,Jolly,Wacan Berry,Dragon Dance,Waterfall,Stone Edge,Earthquake,Atk/Spe,146,Gyarados 3,3
+890,Gyarados,Gyarados 890,P 890,Careful,Chesto Berry,Dragon Dance,Aqua Tail,Earthquake,Rest,HP/SpD,101,Gyarados 4,4
+237,Hariyama,Hariyama 237,P 237,Brave,King's Rock,Feint,Fake Out,Smack Down,Vital Throw,Atk/Def/SpD,63,Hariyama 1,1
+412,Hariyama,Hariyama 412,P 412,Careful,Custap Berry,Reversal,Bullet Punch,Protect,Belly Drum,Def/SpD,70,Hariyama 2,2
+587,Hariyama,Hariyama 587,P 587,Brave,Flame Orb,Fake Out,Close Combat,Detect,Earthquake,Atk/Def,63,Hariyama 3,3
+762,Hariyama,Hariyama 762,P 762,Careful,Sitrus Berry,Belly Drum,Brick Break,Ice Punch,Bullet Punch,Def/SpD,70,Hariyama 4,4
+372,Haxorus,Haxorus 372,P 372,Hasty,Haban Berry,Dual Chop,Earthquake,Roar,Taunt,Atk/Spe,163,Haxorus 1,1
+547,Haxorus,Haxorus 547,P 547,Naughty,Persim Berry,Outrage,Rock Slide,Counter,Dragon Dance,HP/Def/Spe,138,Haxorus 2,2
+722,Haxorus,Haxorus 722,P 722,Jolly,Choice Band,Outrage,Earthquake,Dragon Claw,,Atk/Spe,163,Haxorus 3,3
+897,Haxorus,Haxorus 897,P 897,Jolly,Yache Berry,Dragon Dance,Dragon Claw,Dragon Tail,Earthquake,Atk/Spe,163,Haxorus 4,4
+925,Heatran,Heatran 925,P 925,Modest,Focus Sash,Lava Plume,Earth Power,Flash Cannon,Dark Pulse,HP/SpA,97,Heatran 1,1
+945,Heatran,Heatran 945,P 945,Modest,White Herb,Overheat,Will-O-Wisp,Flash Cannon,Protect,HP/SpA,97,Heatran 2,2
+965,Heatran,Heatran 965,P 965,Modest,Shuca Berry,Sunny Day,Fire Blast,SolarBeam,Earth Power,HP/SpA,97,Heatran 3,3
+985,Heatran,Heatran 985,P 985,Timid,Choice Scarf,Magma Storm,Earth Power,Dragon Pulse,Flash Cannon,Spe/SpA,211,Heatran 4,4
+304,Heracross,Heracross 304,P 304,Brave,Black Belt,Aerial Ace,Pursuit,Swords Dance,Brick Break,HP/Atk/Def,94,Heracross 1,1
+479,Heracross,Heracross 479,P 479,Naughty,Salac Berry,Megahorn,Dig,Endure,Reversal,HP/Spe,137,Heracross 2,2
+654,Heracross,Heracross 654,P 654,Jolly,Coba Berry,Megahorn,Stone Edge,Facade,Shadow Claw,Atk/Spe,150,Heracross 3,3
+829,Heracross,Heracross 829,P 829,Jolly,Salac Berry,Megahorn,Earthquake,Reversal,Endure,Atk/Spe,150,Heracross 4,4
+348,Hippowdon,Hippowdon 348,P 348,Impish,Soft Sand,Earthquake,Crunch,Yawn,Whirlwind,Atk/Def,67,Hippowdon 1,1
+523,Hippowdon,Hippowdon 523,P 523,Lonely,Sitrus Berry,Crunch,Rock Slide,Protect,Curse,HP/Atk,67,Hippowdon 2,2
+698,Hippowdon,Hippowdon 698,P 698,Adamant,Sitrus Berry,Earthquake,Crunch,Slack Off,Yawn,Atk/SpD,67,Hippowdon 3,3
+873,Hippowdon,Hippowdon 873,P 873,Sassy,Chesto Berry,Curse,Rest,Earthquake,Crunch,HP/SpD,60,Hippowdon 4,4
+317,Honchkrow,Honchkrow 317,P 317,Quiet,Sitrus Berry,Psychic,Dark Pulse,Protect,Nasty Plot,Def/SpA/SpD,81,Honchkrow 1,1
+492,Honchkrow,Honchkrow 492,P 492,Brave,BlackGlasses,Sucker Punch,Taunt,Pursuit,Protect,Atk/SpD,81,Honchkrow 2,2
+667,Honchkrow,Honchkrow 667,P 667,Modest,Life Orb,Air Cutter,Dark Pulse,Snatch,Shadow Ball,HP/SpA,91,Honchkrow 3,3
+842,Honchkrow,Honchkrow 842,P 842,Adamant,Life Orb,Night Slash,Drill Peck,Sucker Punch,Thunder Wave,HP/Atk,91,Honchkrow 4,4
+306,Houndoom,Houndoom 306,P 306,Adamant,Charcoal,Incinerate,Flame Charge,Will-O-Wisp,Sucker Punch,Atk/Spe,147,Houndoom 1,1
+481,Houndoom,Houndoom 481,P 481,Hasty,Focus Sash,Counter,Flame Charge,Roar,Protect,Atk/Spe,161,Houndoom 2,2
+656,Houndoom,Houndoom 656,P 656,Timid,Air Balloon,Flamethrower,Shadow Ball,Sludge Bomb,Will-O-Wisp,Spe/SpA,161,Houndoom 3,3
+831,Houndoom,Houndoom 831,P 831,Timid,White Herb,Overheat,Dark Pulse,SolarBeam,Sunny Day,Spe/SpA,161,Houndoom 4,4
+382,Hydreigon,Hydreigon 382,P 382,Rash,Dragon Fang,Dragon Pulse,Earth Power,Surf,Dragon Tail,Atk/Spe,150,Hydreigon 1,1
+557,Hydreigon,Hydreigon 557,P 557,Mild,Wide Lens,Focus Blast,Fire Blast,Dragon Rush,Work Up,Atk/Spe/SpA,139,Hydreigon 2,2
+732,Hydreigon,Hydreigon 732,P 732,Timid,White Herb,Draco Meteor,Taunt,Earth Power,Flamethrower,Spe/SpA,165,Hydreigon 3,3
+907,Hydreigon,Hydreigon 907,P 907,Jolly,Dragon Gem,Dragon Rush,Earthquake,Crunch,Dragon Tail,Atk/Spe,165,Hydreigon 4,4
+219,Infernape,Infernape 219,P 219,Jolly,King's Rock,Fake Out,Encore,Fling,Acrobatics,Atk/Spe,176,Infernape 1,1
+394,Infernape,Infernape 394,P 394,Mild,Charcoal,Heat Wave,Will-O-Wisp,Grass Knot,Calm Mind,HP/Spe/SpA,149,Infernape 2,2
+569,Infernape,Infernape 569,P 569,Hasty,Life Orb,Fake Out,Close Combat,Overheat,Stone Edge,Atk/Spe,176,Infernape 3,3
+744,Infernape,Infernape 744,P 744,Jolly,Focus Sash,Fake Out,Encore,Flare Blitz,Close Combat,Atk/Spe,176,Infernape 4,4
+341,Jolteon,Jolteon 341,P 341,Hasty,Magnet,Quick Attack,Thunderbolt,Thunder Wave,Swagger,Spe/SpA,200,Jolteon 1,1
+516,Jolteon,Jolteon 516,P 516,Timid,Damp Rock,Thunder,Protect,Charm,Rain Dance,Spe/SpA,200,Jolteon 2,2
+691,Jolteon,Jolteon 691,P 691,Timid,King's Rock,Thunder,Shadow Ball,Rain Dance,Yawn,Spe/SpA,200,Jolteon 3,3
+866,Jolteon,Jolteon 866,P 866,Timid,Razor Fang,Thunderbolt,Hyper Beam,Fake Tears,Signal Beam,Spe/SpA,200,Jolteon 4,4
+229,Jynx,Jynx 229,P 229,Calm,Enigma Berry,Captivate,Mean Look,Lovely Kiss,Attract,HP/Def,115,Jynx 1,1
+404,Jynx,Jynx 404,P 404,Mild,Destiny Knot,Frost Breath,Fake Out,Psychic,Taunt,Spe/SpA,147,Jynx 2,2
+579,Jynx,Jynx 579,P 579,Modest,Expert Belt,Icy Wind,Blizzard,Psychic,Focus Blast,Spe/SpA,147,Jynx 3,3
+754,Jynx,Jynx 754,P 754,Timid,Wide Lens,Lovely Kiss,Blizzard,Psychic,Fake Out,Spe/SpA,161,Jynx 4,4
+265,Kangaskhan,Kangaskhan 265,P 265,Adamant,Sitrus Berry,Dizzy Punch,Fake Out,Chip Away,Roar,Atk/Spe,142,Kangaskhan 1,1
+440,Kangaskhan,Kangaskhan 440,P 440,Jolly,Salac Berry,Rock Slide,Sucker Punch,Endure,Reversal,Atk/Spe,156,Kangaskhan 2,2
+615,Kangaskhan,Kangaskhan 615,P 615,Jolly,Chople Berry,Fake Out,Double-Edge,Circle Throw,Sucker Punch,Atk/Spe,156,Kangaskhan 3,3
+790,Kangaskhan,Kangaskhan 790,P 790,Jolly,Salac Berry,Fake Out,Endeavor,Return,Substitute,Atk/Spe,156,Kangaskhan 4,4
+367,Kingdra,Kingdra 367,P 367,Adamant,Persim Berry,Waterfall,Quash,Protect,Outrage,HP/Atk/Spe,126,Kingdra 1,1
+542,Kingdra,Kingdra 542,P 542,Mild,Haban Berry,Dragon Pulse,Waterfall,Ice Beam,Dragon Dance,HP/Atk/SpA,105,Kingdra 2,2
+717,Kingdra,Kingdra 717,P 717,Modest,Sitrus Berry,Rain Dance,Hydro Pump,Dragon Pulse,Ice Beam,HP/Spe/SpA,126,Kingdra 3,3
+892,Kingdra,Kingdra 892,P 892,Modest,White Herb,Draco Meteor,Surf,Blizzard,Protect,HP/Spe/SpA,126,Kingdra 4,4
+338,Klinklang,Klinklang 338,P 338,Impish,Shuca Berry,Gear Grind,Thunder Wave,Screech,Volt Switch,HP/Spe,142,Klinklang 1,1
+513,Klinklang,Klinklang 513,P 513,Mild,White Herb,Charge Beam,Metal Sound,Flash Cannon,Autotomize,Spe/SpA,142,Klinklang 2,2
+688,Klinklang,Klinklang 688,P 688,Adamant,Occa Berry,Shift Gear,Gear Grind,Volt Switch,Giga Impact,Atk/Spe,142,Klinklang 3,3
+863,Klinklang,Klinklang 863,P 863,Modest,Steel Gem,Flash Cannon,Thunderbolt,Protect,Toxic,Spe/SpA,142,Klinklang 4,4
+321,Krookodile,Krookodile 321,P 321,Naughty,BlackGlasses,Crunch,Bulldoze,Taunt,Counter,Atk/Def/SpD,112,Krookodile 1,1
+496,Krookodile,Krookodile 496,P 496,Naughty,Rock Gem,Smack Down,Earthquake,Pursuit,Embargo,Atk/Def,112,Krookodile 2,2
+671,Krookodile,Krookodile 671,P 671,Adamant,Dark Gem,Earthquake,Crunch,Stone Edge,Dragon Tail,Atk/SpD,112,Krookodile 3,3
+846,Krookodile,Krookodile 846,P 846,Jolly,Liechi Berry,Earthquake,Pursuit,Low Sweep,Rock Slide,Atk/Spe,158,Krookodile 4,4
+927,Landorus,Landorus 927,P 927,Adamant,Focus Sash,Earthquake,Rock Slide,Smack Down,Bulldoze,Atk/Spe,153,Landorus 1,1
+947,Landorus,Landorus 947,P 947,Adamant,Choice Scarf,Earthquake,Rock Slide,Outrage,Brick Break,Atk/Spe,229,Landorus 2,2
+967,Landorus,Landorus 967,P 967,Jolly,Ground Gem,Sandstorm,Earthquake,Rock Slide,Protect,Atk/Spe,168,Landorus 3,3
+987,Landorus,Landorus 987,P 987,Timid,Focus Sash,Earth Power,Psychic,Sludge Bomb,Grass Knot,Spe/SpA,168,Landorus 4,4
+231,Lanturn,Lanturn 231,P 231,Naughty,Salac Berry,Thunder Wave,Discharge,Electro Ball,Agility,Atk/Def,87,Lanturn 1,1
+406,Lanturn,Lanturn 406,P 406,Calm,Sitrus Berry,Thunder Wave,Charge Beam,Stockpile,Swallow,Def/SpA,87,Lanturn 2,2
+581,Lanturn,Lanturn 581,P 581,Modest,Petaya Berry,Surf,Discharge,Thunder Wave,Ice Beam,Def/SpA/SpD,87,Lanturn 3,3
+756,Lanturn,Lanturn 756,P 756,Bold,Chesto Berry,Stockpile,Rest,Charge Beam,Ice Beam,Def/SpD,87,Lanturn 4,4
+357,Lapras,Lapras 357,P 357,Quiet,Damp Rock,Rain Dance,Thunder,Ice Shard,Confuse Ray,Def/SpA,72,Lapras 1,1
+532,Lapras,Lapras 532,P 532,Modest,Mystic Water,Surf,Ice Beam,Rest,Sleep Talk,Def/SpA/SpD,80,Lapras 2,2
+707,Lapras,Lapras 707,P 707,Modest,BrightPowder,Surf,Ice Beam,Thunderbolt,Psychic,HP/SpA,80,Lapras 3,3
+882,Lapras,Lapras 882,P 882,Impish,Chesto Berry,Perish Song,Rest,Body Slam,Block,Def/SpD,80,Lapras 4,4
+923,Latias,Latias 923,P 923,Bold,Chesto Berry,Calm Mind,Reflect Type,Dragon Pulse,Rest,HP/Def,130,Latias 1,1
+943,Latias,Latias 943,P 943,Timid,White Herb,Draco Meteor,Thunder,Psychic,Protect,Spe/SpA,178,Latias 2,2
+963,Latias,Latias 963,P 963,Timid,Choice Specs,Draco Meteor,Thunderbolt,Psychic,Trick,Spe/SpA,178,Latias 3,3
+983,Latias,Latias 983,P 983,Adamant,Life Orb,Draco Meteor,Earthquake,Hone Claws,Dragon Claw,Atk/Spe,162,Latias 4,4
+924,Latios,Latios 924,P 924,Bold,Chesto Berry,Calm Mind,Luster Purge,Dragon Pulse,Rest,HP/Def,130,Latios 1,1
+944,Latios,Latios 944,P 944,Timid,White Herb,Draco Meteor,Thunderbolt,Psychic,Protect,Spe/SpA,178,Latios 2,2
+964,Latios,Latios 964,P 964,Timid,Choice Specs,Draco Meteor,Thunder,Psychic,Energy Ball,Spe/SpA,178,Latios 3,3
+984,Latios,Latios 984,P 984,Adamant,Life Orb,Draco Meteor,Earthquake,Dragon Dance,Outrage,Atk/Spe,162,Latios 4,4
+345,Leafeon,Leafeon 345,P 345,Impish,Scope Lens,X-Scissor,Leaf Blade,Swords Dance,GrassWhistle,HP/Spe,147,Leafeon 1,1
+520,Leafeon,Leafeon 520,P 520,Naive,Liechi Berry,Leaf Blade,Giga Impact,Substitute,Yawn,Atk/Spe,161,Leafeon 2,2
+695,Leafeon,Leafeon 695,P 695,Adamant,Heat Rock,Sunny Day,Leaf Blade,X-Scissor,Synthesis,Atk/Def,115,Leafeon 3,3
+870,Leafeon,Leafeon 870,P 870,Adamant,Quick Claw,Leaf Blade,X-Scissor,Aerial Ace,Detect,Atk/Def,115,Leafeon 4,4
+331,Lickilicky,Lickilicky 331,P 331,Naive,Sitrus Berry,Thunderbolt,Ice Beam,Me First,Psych Up,HP/Def/SpA,77,Lickilicky 1,1
+506,Lickilicky,Lickilicky 506,P 506,Adamant,Chople Berry,Gyro Ball,Rest,Curse,Sleep Talk,HP/Atk/Def/SpD,70,Lickilicky 2,2
+681,Lickilicky,Lickilicky 681,P 681,Careful,Leftovers,Return,Gyro Ball,Curse,Rest,HP/SpD,70,Lickilicky 3,3
+856,Lickilicky,Lickilicky 856,P 856,Adamant,Lax Incense,Body Slam,Power Whip,Earthquake,Explosion,HP/Atk,70,Lickilicky 4,4
+256,Lilligant,Lilligant 256,P 256,Timid,Persim Berry,Charm,Sleep Powder,Petal Dance,Healing Wish,Spe/SpA,156,Lilligant 1,1
+431,Lilligant,Lilligant 431,P 431,Bold,Big Root,Ingrain,Leech Seed,Toxic,Protect,HP/Def/SpD,110,Lilligant 2,2
+606,Lilligant,Lilligant 606,P 606,Bold,Leftovers,Quiver Dance,Energy Ball,Leech Seed,Protect,HP/Def,110,Lilligant 3,3
+781,Lilligant,Lilligant 781,P 781,Bold,Lum Berry,SolarBeam,Teeter Dance,Charm,Leech Seed,HP/Def/Spe/SpA,126,Lilligant 4,4
+254,Lopunny,Lopunny 254,P 254,Naive,Toxic Orb,Fake Out,Encore,Fling,Dizzy Punch,HP/Spe,172,Lopunny 1,1
+429,Lopunny,Lopunny 429,P 429,Jolly,Liechi Berry,Charm,Focus Punch,Substitute,ThunderPunch,Atk/Spe,172,Lopunny 2,2
+604,Lopunny,Lopunny 604,P 604,Jolly,Chople Berry,Encore,Fake Out,Focus Punch,Mirror Coat,HP/Spe,172,Lopunny 3,3
+779,Lopunny,Lopunny 779,P 779,Jolly,Flame Orb,Switcheroo,Mirror Coat,Protect,Dig,HP/Spe,172,Lopunny 4,4
+347,Lucario,Lucario 347,P 347,Modest,Black Belt,Metal Sound,Dark Pulse,Aura Sphere,Heal Pulse,Spe/SpA,142,Lucario 1,1
+522,Lucario,Lucario 522,P 522,Jolly,Focus Sash,Close Combat,Hone Claws,Endure,Reversal,Atk/Spe,156,Lucario 2,2
+697,Lucario,Lucario 697,P 697,Jolly,Muscle Band,Close Combat,Earthquake,Blaze Kick,Shadow Claw,Atk/Spe,156,Lucario 3,3
+872,Lucario,Lucario 872,P 872,Modest,Expert Belt,Aura Sphere,Psychic,Shadow Ball,Follow Me,Spe/SpA,142,Lucario 4,4
+251,Ludicolo,Ludicolo 251,P 251,Lax,Leftovers,Leech Seed,Toxic,Giga Drain,Rain Dance,HP/Def/SpA,90,Ludicolo 1,1
+426,Ludicolo,Ludicolo 426,P 426,Naughty,Tanga Berry,Fake Out,Grass Knot,Surf,Tickle,HP/Atk/SpA,90,Ludicolo 2,2
+601,Ludicolo,Ludicolo 601,P 601,Bold,Leftovers,Rain Dance,Leech Seed,Protect,Giga Drain,Def/SpA/SpD,90,Ludicolo 3,3
+776,Ludicolo,Ludicolo 776,P 776,Modest,Sitrus Berry,Fake Out,Hydro Pump,Leech Seed,Grass Knot,Spe/SpA,122,Ludicolo 4,4
+312,Luxray,Luxray 312,P 312,Lonely,Magnet,Wild Charge,Crunch,Captivate,Swagger,Atk/SpD,90,Luxray 1,1
+487,Luxray,Luxray 487,P 487,Careful,Quick Claw,Charge Beam,Helping Hand,Discharge,Roar,HP/SpD,90,Luxray 2,2
+662,Luxray,Luxray 662,P 662,Adamant,White Herb,Thunder Fang,Ice Fang,Superpower,Thunder Wave,HP/Atk,90,Luxray 3,3
+837,Luxray,Luxray 837,P 837,Careful,Air Balloon,Thunder Fang,Ice Fang,Light Screen,Thunder Wave,HP/SpD,90,Luxray 4,4
+314,Machamp,Machamp 314,P 314,Brave,Rawst Berry,DynamicPunch,Payback,Foresight,Wide Guard,HP/Atk,67,Machamp 1,1
+489,Machamp,Machamp 489,P 489,Brave,Expert Belt,Ice Punch,Cross Chop,Fire Punch,Focus Energy,HP/Atk,67,Machamp 2,2
+664,Machamp,Machamp 664,P 664,Jolly,Choice Scarf,DynamicPunch,Ice Punch,Rock Slide,Earthquake,Atk/Spe,175,Machamp 3,3
+839,Machamp,Machamp 839,P 839,Adamant,Flame Orb,Protect,Earthquake,Close Combat,Payback,Atk/SpD,75,Machamp 4,4
+371,Magmortar,Magmortar 371,P 371,Adamant,Passho Berry,Flame Charge,Earthquake,Confuse Ray,Barrier,HP/Atk,103,Magmortar 1,1
+546,Magmortar,Magmortar 546,P 546,Modest,Wide Lens,Fire Blast,Flame Burst,Focus Blast,Taunt,Spe/SpA,135,Magmortar 2,2
+721,Magmortar,Magmortar 721,P 721,Jolly,Passho Berry,Flare Blitz,ThunderPunch,Earthquake,Brick Break,Spe,148,Magmortar 3,3
+896,Magmortar,Magmortar 896,P 896,Timid,White Herb,Overheat,Psychic,Focus Blast,Protect,Spe/SpA,148,Magmortar 4,4
+359,Magnezone,Magnezone 359,P 359,Rash,Magnet,Metal Sound,Flash Cannon,Thunderbolt,Magnet Rise,HP/SpA,80,Magnezone 1,1
+534,Magnezone,Magnezone 534,P 534,Quiet,Shuca Berry,Charge Beam,Thunder Wave,Flash Cannon,Mirror Coat,HP/SpA,72,Magnezone 2,2
+709,Magnezone,Magnezone 709,P 709,Modest,BrightPowder,Charge Beam,Flash Cannon,Magnet Rise,Thunder Wave,Def/SpA,80,Magnezone 3,3
+884,Magnezone,Magnezone 884,P 884,Modest,Electric Gem,Thunderbolt,Flash Cannon,Tri Attack,Volt Switch,Def/SpA,80,Magnezone 4,4
+356,Mamoswine,Mamoswine 356,P 356,Adamant,Passho Berry,Double Hit,Earthquake,Ice Shard,Stealth Rock,Atk/Spe/SpD,121,Mamoswine 1,1
+531,Mamoswine,Mamoswine 531,P 531,Brave,Zoom Lens,Stone Edge,Bulldoze,Blizzard,Ice Fang,Atk/Def/SpD,90,Mamoswine 2,2
+706,Mamoswine,Mamoswine 706,P 706,Adamant,Lax Incense,Hail,Earthquake,Superpower,Fissure,HP/Atk,100,Mamoswine 3,3
+881,Mamoswine,Mamoswine 881,P 881,Adamant,Life Orb,Earthquake,Ice Fang,Double-Edge,Stone Edge,HP/Atk,100,Mamoswine 4,4
+326,Mandibuzz,Mandibuzz 326,P 326,Calm,Wacan Berry,Taunt,Flatter,Roost,Toxic,Spe/SpD,132,Mandibuzz 1,1
+501,Mandibuzz,Mandibuzz 501,P 501,Mild,Flying Gem,Dark Pulse,Air Slash,Shadow Ball,Nasty Plot,Spe/SpA,132,Mandibuzz 2,2
+676,Mandibuzz,Mandibuzz 676,P 676,Modest,Sitrus Berry,Nasty Plot,Dark Pulse,Air Slash,Incinerate,HP/Def/SpD,100,Mandibuzz 3,3
+851,Mandibuzz,Mandibuzz 851,P 851,Careful,Leftovers,Substitute,Swagger,Punishment,Roost,HP/Def/SpD,100,Mandibuzz 4,4
+241,Manectric,Manectric 241,P 241,Adamant,Life Orb,Crunch,Odor Sleuth,Quick Attack,Wild Charge,Atk/Spe,157,Manectric 1,1
+416,Manectric,Manectric 416,P 416,Modest,Charcoal,Flamethrower,Overheat,Discharge,Charge,Spe/SpA,157,Manectric 2,2
+591,Manectric,Manectric 591,P 591,Timid,Air Balloon,Thunderbolt,Overheat,Volt Switch,Quick Attack,Spe/SpA,172,Manectric 3,3
+766,Manectric,Manectric 766,P 766,Timid,Choice Scarf,Switcheroo,Thunder,Volt Switch,Overheat,Spe/SpA,258,Manectric 4,4
+225,Marowak,Marowak 225,P 225,Careful,Salac Berry,Substitute,Detect,Earthquake,Swords Dance,HP/SpD,65,Marowak 1,1
+400,Marowak,Marowak 400,P 400,Brave,Iron Ball,Earthquake,Fling,Brick Break,Detect,HP/Atk,29,Marowak 2,2
+575,Marowak,Marowak 575,P 575,Jolly,Thick Club,Earthquake,Stone Edge,Low Kick,Fire Punch,Atk/Spe,106,Marowak 3,3
+750,Marowak,Marowak 750,P 750,Jolly,Thick Club,Earthquake,Outrage,Detect,Rock Slide,Atk/Spe,106,Marowak 4,4
+226,Medicham,Medicham 226,P 226,Impish,Black Belt,Fake Out,Hi Jump Kick,Bulk Up,Feint,HP/Spe,132,Medicham 1,1
+401,Medicham,Medicham 401,P 401,Timid,TwistedSpoon,Psychic,Shadow Ball,Energy Ball,Calm Mind,Spe/SpA,145,Medicham 2,2
+576,Medicham,Medicham 576,P 576,Jolly,Expert Belt,Hi Jump Kick,Zen Headbutt,Ice Punch,Bullet Punch,Atk/Spe,145,Medicham 3,3
+751,Medicham,Medicham 751,P 751,Adamant,Life Orb,Hi Jump Kick,Psycho Cut,Fake Out,Detect,Atk/Spe,132,Medicham 4,4
+212,Meganium,Meganium 212,P 212,Gentle,Sitrus Berry,Light Screen,Aromatherapy,Swagger,SolarBeam,HP/SpD,100,Meganium 1,1
+387,Meganium,Meganium 387,P 387,Bold,Chesto Berry,GrassWhistle,Double Team,Substitute,Rest,HP/Def,100,Meganium 2,2
+562,Meganium,Meganium 562,P 562,Adamant,Light Clay,Seed Bomb,Earthquake,Reflect,Light Screen,HP/Atk,100,Meganium 3,3
+737,Meganium,Meganium 737,P 737,Bold,Leftovers,Leech Seed,Ingrain,Toxic,Protect,Def/SpD,100,Meganium 4,4
+380,Metagross,Metagross 380,P 380,Naive,Occa Berry,Meteor Mash,Magnet Rise,Zen Headbutt,Agility,Atk/Spe,134,Metagross 1,1
+555,Metagross,Metagross 555,P 555,Quiet,Occa Berry,Psychic,Shadow Ball,Meteor Mash,Magnet Rise,HP/Atk/SpA,81,Metagross 2,2
+730,Metagross,Metagross 730,P 730,Adamant,Occa Berry,Earthquake,Meteor Mash,Bullet Punch,Explosion,HP/Atk/SpD,90,Metagross 3,3
+905,Metagross,Metagross 905,P 905,Careful,Toxic Orb,Trick,Meteor Mash,Protect,Earthquake,HP/SpD,90,Metagross 4,4
+351,Mienshao,Mienshao 351,P 351,Naive,Salac Berry,U-turn,Endure,Calm Mind,Baton Pass,HP/Spe,172,Mienshao 1,1
+526,Mienshao,Mienshao 526,P 526,Jolly,King's Rock,Fake Out,Fling,Acrobatics,Hi Jump Kick,Atk/Spe,172,Mienshao 2,2
+701,Mienshao,Mienshao 701,P 701,Jolly,Focus Sash,Low Kick,Fake Out,Hi Jump Kick,U-turn,Atk/Spe,172,Mienshao 3,3
+876,Mienshao,Mienshao 876,P 876,Impish,Muscle Band,Feint,Fake Out,Hi Jump Kick,Wide Guard,HP/Atk,125,Mienshao 4,4
+369,Milotic,Milotic 369,P 369,Bold,Enigma Berry,Surf,Recover,Mirror Coat,Confuse Ray,HP/Def,101,Milotic 1,1
+544,Milotic,Milotic 544,P 544,Quiet,Leftovers,Hydro Pump,Toxic,Attract,Aqua Ring,HP/Def,90,Milotic 2,2
+719,Milotic,Milotic 719,P 719,Calm,Wide Lens,Hydro Pump,Blizzard,Mirror Coat,Recover,SpA/SpD,101,Milotic 3,3
+894,Milotic,Milotic 894,P 894,Impish,Leftovers,Ice Beam,Rest,Sleep Talk,Surf,HP/SpD,101,Milotic 4,4
+275,Miltank,Miltank 275,P 275,Jolly,Lum Berry,Body Slam,Helping Hand,Milk Drink,Heal Bell,HP/Spe,167,Miltank 1,1
+450,Miltank,Miltank 450,P 450,Naive,Razor Fang,Body Slam,Fling,Brick Break,Captivate,Atk/Spe,167,Miltank 2,2
+625,Miltank,Miltank 625,P 625,Adamant,Scope Lens,Dizzy Punch,Fire Punch,ThunderPunch,Ice Punch,Atk/Def,120,Miltank 3,3
+800,Miltank,Miltank 800,P 800,Jolly,Salac Berry,Substitute,Earthquake,Rock Slide,Zen Headbutt,Atk/Spe,167,Miltank 4,4
+289,Mismagius,Mismagius 289,P 289,Naive,Colbur Berry,Taunt,Protect,Imprison,Shadow Ball,HP/Spe,172,Mismagius 1,1
+464,Mismagius,Mismagius 464,P 464,Timid,Kasib Berry,Shadow Ball,Wonder Room,Grudge,Pain Split,HP/SpD,137,Mismagius 2,2
+639,Mismagius,Mismagius 639,P 639,Timid,Sitrus Berry,Icy Wind,Shadow Ball,Thunderbolt,Destiny Bond,Spe/SpA,172,Mismagius 3,3
+814,Mismagius,Mismagius 814,P 814,Bold,BrightPowder,Confuse Ray,Protect,Perish Song,Mean Look,HP/Def,125,Mismagius 4,4
+911,Moltres,Moltres 911,P 911,Modest,White Herb,Overheat,Air Slash,Tailwind,Will-O-Wisp,Spe/SpA,142,Moltres 1,1
+931,Moltres,Moltres 931,P 931,Naughty,Power Herb,Flame Charge,Sky Attack,Aerial Ace,Fire Blast,Atk/Spe,142,Moltres 2,2
+951,Moltres,Moltres 951,P 951,Timid,Heat Rock,Sunny Day,SolarBeam,Flamethrower,Air Slash,Spe/SpA,156,Moltres 3,3
+971,Moltres,Moltres 971,P 971,Timid,Charcoal,Heat Wave,Incinerate,Air Slash,Protect,Spe/SpA,156,Moltres 4,4
+230,Mrmime,Mrmime 230,P 230,Naive,Choice Scarf,Trick,Nasty Plot,Barrier,Baton Pass,HP/Def/SpD,181,Mrmime 1,1
+405,Mrmime,Mrmime 405,P 405,Lonely,Jaboca Berry,Payback,Wide Guard,Quick Guard,Power Split,HP/Atk/SpD,110,Mrmime 2,2
+580,Mrmime,Mrmime 580,P 580,Timid,Lum Berry,Fake Out,Psychic,Signal Beam,Focus Blast,Spe/SpA,156,Mrmime 3,3
+755,Mrmime,Mrmime 755,P 755,Bold,Light Clay,Light Screen,Reflect,Psychic,Signal Beam,HP/Def,110,Mrmime 4,4
+298,Muk,Muk 298,P 298,Brave,Black Sludge,Poison Jab,Stockpile,Swallow,Memento,Atk/Def,63,Muk 1,1
+473,Muk,Muk 473,P 473,Lonely,Toxic Plate,Shadow Sneak,Poison Jab,Acid Armor,Flamethrower,Atk/SpA/SpD,70,Muk 2,2
+648,Muk,Muk 648,P 648,Brave,Zoom Lens,Gunk Shot,Payback,Shadow Sneak,Curse,HP,63,Muk 3,3
+823,Muk,Muk 823,P 823,Adamant,Quick Claw,Gunk Shot,Shadow Sneak,Brick Break,Explosion,HP/Atk,70,Muk 4,4
+270,Musharna,Musharna 270,P 270,Mild,Zoom Lens,Hypnosis,Dream Eater,Calm Mind,Helping Hand,Def/SpA/SpD,49,Musharna 1,1
+445,Musharna,Musharna 445,P 445,Bold,Lum Berry,Shadow Ball,Energy Ball,Psychic,Trick Room,Def/SpA,49,Musharna 2,2
+620,Musharna,Musharna 620,P 620,Modest,Scope Lens,Psychic,Shadow Ball,Energy Ball,Yawn,Def/SpA,49,Musharna 3,3
+795,Musharna,Musharna 795,P 795,Relaxed,Chesto Berry,Stored Power,Calm Mind,Shadow Ball,Rest,Def/SpD,44,Musharna 4,4
+283,Nidoking,Nidoking 283,P 283,Naughty,King's Rock,Bulldoze,Megahorn,Rock Slide,Hone Claws,HP/Atk,105,Nidoking 1,1
+458,Nidoking,Nidoking 458,P 458,Quiet,Black Sludge,Amnesia,Sludge Bomb,Flamethrower,Protect,HP/SpA,94,Nidoking 2,2
+633,Nidoking,Nidoking 633,P 633,Modest,Black Sludge,Earth Power,Sludge Bomb,Protect,Icy Wind,Spe/SpA,137,Nidoking 3,3
+808,Nidoking,Nidoking 808,P 808,Adamant,Muscle Band,Earthquake,Poison Jab,Megahorn,Protect,Atk/Spe,137,Nidoking 4,4
+282,Nidoqueen,Nidoqueen 282,P 282,Relaxed,Payapa Berry,Chip Away,Swagger,Helping Hand,Flatter,HP/Def/SpD,86,Nidoqueen 1,1
+457,Nidoqueen,Nidoqueen 457,P 457,Mild,Absorb Bulb,Thunderbolt,Hyper Beam,Earth Power,Counter,HP/SpA,96,Nidoqueen 2,2
+632,Nidoqueen,Nidoqueen 632,P 632,Modest,Black Sludge,Sludge Bomb,Earth Power,Flamethrower,Ice Beam,HP/SpA,96,Nidoqueen 3,3
+807,Nidoqueen,Nidoqueen 807,P 807,Adamant,Black Sludge,Poison Jab,Dragon Tail,Bulldoze,Earthquake,HP/Atk,96,Nidoqueen 4,4
+313,Ninetales,Ninetales 313,P 313,Modest,Passho Berry,Will-O-Wisp,Hypnosis,Extrasensory,Heat Wave,Spe/SpA,152,Ninetales 1,1
+488,Ninetales,Ninetales 488,P 488,Timid,Fire Gem,Heat Wave,Roar,Confuse Ray,Nasty Plot,HP/Spe,167,Ninetales 2,2
+663,Ninetales,Ninetales 663,P 663,Timid,Wide Lens,Fire Blast,Extrasensory,Hypnosis,Disable,Spe/SpD,167,Ninetales 3,3
+838,Ninetales,Ninetales 838,P 838,Timid,Passho Berry,Flamethrower,Extrasensory,Energy Ball,Calm Mind,HP/Spe,167,Ninetales 4,4
+302,Pinsir,Pinsir 302,P 302,Naughty,Persim Berry,Bug Bite,Brick Break,Thrash,Swords Dance,Atk/Spe,137,Pinsir 1,1
+477,Pinsir,Pinsir 477,P 477,Lonely,Insect Plate,Feint,X-Scissor,Stone Edge,Bug Bite,Atk/Spe,137,Pinsir 2,2
+652,Pinsir,Pinsir 652,P 652,Adamant,Lax Incense,X-Scissor,Superpower,Stone Edge,Giga Impact,Atk/Def,105,Pinsir 3,3
+827,Pinsir,Pinsir 827,P 827,Jolly,Choice Scarf,X-Scissor,Earthquake,Close Combat,Guillotine,Atk/Spe,225,Pinsir 4,4
+301,Politoed,Politoed 301,P 301,Modest,Full Incense,Waterfall,Encore,Swagger,Bounce,Spe/SpA,0,Politoed 1,1
+476,Politoed,Politoed 476,P 476,Brave,Water Gem,Thief,Echoed Voice,Refresh,Hydro Pump,Atk/SpA,81,Politoed 2,2
+651,Politoed,Politoed 651,P 651,Careful,Chesto Berry,Waterfall,Earthquake,Belly Drum,Rest,Atk/SpD,90,Politoed 3,3
+826,Politoed,Politoed 826,P 826,Modest,Wide Lens,Hydro Pump,Blizzard,Focus Blast,Hypnosis,SpA/SpD,90,Politoed 4,4
+296,Poliwrath,Poliwrath 296,P 296,Naughty,Sitrus Berry,Ice Beam,Waterfall,Psychic,Work Up,HP/Atk/SpA,90,Poliwrath 1,1
+471,Poliwrath,Poliwrath 471,P 471,Naive,Shell Bell,Brick Break,Waterfall,Hypnosis,Belly Drum,HP/Atk,99,Poliwrath 2,2
+646,Poliwrath,Poliwrath 646,P 646,Adamant,Leftovers,Waterfall,Focus Punch,Encore,Substitute,HP/Atk,90,Poliwrath 3,3
+821,Poliwrath,Poliwrath 821,P 821,Adamant,Sitrus Berry,Waterfall,Earthquake,Focus Punch,Circle Throw,HP/Atk,90,Poliwrath 4,4
+330,Porygon2,Porygon2 330,P 330,Modest,Sitrus Berry,Blizzard,Magic Coat,Lock-On,Zap Cannon,HP/SpA,80,Porygon2 1,1
+505,Porygon2,Porygon2 505,P 505,Calm,Petaya Berry,Tri Attack,Psychic,Recycle,Recover,HP/Def/SpD,80,Porygon2 2,2
+680,Porygon2,Porygon2 680,P 680,Modest,Choice Specs,Tri Attack,Thunderbolt,Psychic,Ice Beam,HP/SpA,80,Porygon2 3,3
+855,Porygon2,Porygon2 855,P 855,Modest,Lum Berry,Tri Attack,Thunder Wave,Shadow Ball,Ice Beam,HP/SpA,80,Porygon2 4,4
+362,Porygon-z,Porygon-z 362,P 362,Modest,Wise Glasses,Psychic,Shadow Ball,Thunderbolt,Thunder Wave,Spe/SpA,142,Porygon-Z 1,1
+537,Porygon-z,Porygon-z 537,P 537,Modest,Choice Specs,Hyper Beam,,,,Spe/SpA,142,Porygon-Z 2,2
+712,Porygon-z,Porygon-z 712,P 712,Modest,Expert Belt,Psychic,Ice Beam,Signal Beam,Charge Beam,HP/SpA,110,Porygon-Z 3,3
+887,Porygon-z,Porygon-z 887,P 887,Timid,Sitrus Berry,Tri Attack,Thunderbolt,Shadow Ball,Recover,Spe/SpA,156,Porygon-Z 4,4
+349,Probopass,Probopass 349,P 349,Calm,Cheri Berry,Smack Down,Volt Switch,Thunder Wave,Magnet Rise,HP/SpD,60,Probopass 1,1
+524,Probopass,Probopass 524,P 524,Bold,Sitrus Berry,Block,Iron Defense,Flash Cannon,Discharge,HP/Def,60,Probopass 2,2
+699,Probopass,Probopass 699,P 699,Adamant,Scope Lens,Stone Edge,Iron Head,Earthquake,Explosion,Atk/Def,60,Probopass 3,3
+874,Probopass,Probopass 874,P 874,Modest,Life Orb,Flash Cannon,Power Gem,Earth Power,Thunderbolt,SpA/SpD,60,Probopass 4,4
+227,Quagsire,Quagsire 227,P 227,Impish,Rindo Berry,Rest,Sleep Talk,Toxic,Bulldoze,HP/Def,55,Quagsire 1,1
+402,Quagsire,Quagsire 402,P 402,Impish,Iron Ball,Earthquake,Stockpile,Fling,Swallow,HP/Def/SpD,27,Quagsire 2,2
+577,Quagsire,Quagsire 577,P 577,Adamant,Rindo Berry,Earthquake,Aqua Tail,Ice Punch,Stone Edge,Atk/SpD,55,Quagsire 3,3
+752,Quagsire,Quagsire 752,P 752,Careful,Leftovers,Curse,Amnesia,Earthquake,Waterfall,HP/SpD,55,Quagsire 4,4
+239,Raichu,Raichu 239,P 239,Adamant,Focus Sash,Encore,Thief,Thunder Wave,Discharge,Spe/SpA,152,Raichu 1,1
+414,Raichu,Raichu 414,P 414,Jolly,Magnet,Brick Break,Electro Ball,Fake Out,Protect,Atk/Spe,167,Raichu 2,2
+589,Raichu,Raichu 589,P 589,Jolly,Focus Sash,ThunderPunch,Reversal,Thunder Wave,Fake Out,Atk/Spe,167,Raichu 3,3
+764,Raichu,Raichu 764,P 764,Timid,Lum Berry,Encore,Magnet Rise,Thunderbolt,Grass Knot,Spe/SpA,167,Raichu 4,4
+912,Raikou,Raikou 912,P 912,Timid,Shuca Berry,Thunderbolt,Volt Switch,Shadow Ball,Extrasensory,Spe/SpA,183,Raikou 1,1
+932,Raikou,Raikou 932,P 932,Timid,Leftovers,Charge Beam,Magnet Rise,Calm Mind,Shadow Ball,Def/Spe,183,Raikou 2,2
+952,Raikou,Raikou 952,P 952,Timid,Air Balloon,Thunderbolt,Volt Switch,Shadow Ball,Protect,Spe/SpA,183,Raikou 3,3
+972,Raikou,Raikou 972,P 972,Timid,Air Balloon,Thunder,Discharge,Reflect,Extrasensory,Spe/SpA,183,Raikou 4,4
+286,Rampardos,Rampardos 286,P 286,Brave,Passho Berry,Rock Slide,Crunch,Curse,Protect,Atk/Def/SpD,70,Rampardos 1,1
+461,Rampardos,Rampardos 461,P 461,Naughty,Sitrus Berry,Head Smash,Stone Edge,Hammer Arm,Scary Face,Atk/Spe,110,Rampardos 2,2
+636,Rampardos,Rampardos 636,P 636,Jolly,Choice Scarf,Head Smash,Earthquake,Brick Break,ThunderPunch,Atk/Spe,181,Rampardos 3,3
+811,Rampardos,Rampardos 811,P 811,Relaxed,Sitrus Berry,Head Smash,Earthquake,Rock Slide,Protect,Atk/SpD,70,Rampardos 4,4
+297,Rapidash,Rapidash 297,P 297,Naughty,Passho Berry,Bounce,Flame Charge,Low Kick,Charm,Atk/Spe,157,Rapidash 1,1
+472,Rapidash,Rapidash 472,P 472,Hasty,Heat Rock,Will-O-Wisp,Fire Blast,SolarBeam,Sunny Day,Spe/SpA,172,Rapidash 2,2
+647,Rapidash,Rapidash 647,P 647,Jolly,Focus Sash,Flare Blitz,Poison Jab,Iron Tail,Horn Drill,Atk/Spe,172,Rapidash 3,3
+822,Rapidash,Rapidash 822,P 822,Jolly,Charcoal,Flare Blitz,Megahorn,Double-Edge,Protect,Atk/Spe,172,Rapidash 4,4
+916,Regice,Regice 916,P 916,Modest,Sitrus Berry,Thunderbolt,Ice Beam,Focus Blast,Toxic,HP/SpA,70,Regice 1,1
+936,Regice,Regice 936,P 936,Timid,Chesto Berry,Thunderbolt,Icy Wind,Ice Beam,Rest,HP/Def/Spe,100,Regice 2,2
+956,Regice,Regice 956,P 956,Bold,Leftovers,Charge Beam,Ice Beam,Amnesia,Protect,HP/Def,70,Regice 3,3
+976,Regice,Regice 976,P 976,Impish,Zoom Lens,Thunder,Blizzard,Focus Blast,Thunder Wave,HP/SpD,70,Regice 4,4
+928,Regigigas,Regigigas 928,P 928,Adamant,BrightPowder,Confuse Ray,Double Team,Drain Punch,Payback,HP/Atk,60,Regigigas 1,1
+948,Regigigas,Regigigas 948,P 948,Quiet,Zoom Lens,Thunder,Toxic,Focus Blast,Confuse Ray,Spe/SpA,68,Regigigas 2,2
+968,Regigigas,Regigigas 968,P 968,Adamant,Leftovers,Confuse Ray,Drain Punch,Thunder Wave,Rock Slide,HP/Atk,60,Regigigas 3,3
+988,Regigigas,Regigigas 988,P 988,Careful,Leftovers,Wide Guard,Double Team,Confuse Ray,Toxic,HP/Def,60,Regigigas 4,4
+915,Regirock,Regirock 915,P 915,Careful,Leftovers,Sandstorm,Curse,Rock Slide,Drain Punch,HP/SpD,70,Regirock 1,1
+935,Regirock,Regirock 935,P 935,Adamant,Custap Berry,Stone Edge,Drain Punch,Earthquake,Explosion,HP/Atk,70,Regirock 2,2
+955,Regirock,Regirock 955,P 955,Adamant,Rock Gem,Ice Punch,Rock Slide,Drain Punch,Earthquake,HP/Atk,70,Regirock 3,3
+975,Regirock,Regirock 975,P 975,Jolly,Sitrus Berry,Rock Polish,Rock Slide,Superpower,Explosion,Atk/Spe,112,Regirock 4,4
+917,Registeel,Registeel 917,P 917,Careful,Chesto Berry,Curse,Amnesia,Iron Head,Rest,HP/SpD,70,Registeel 1,1
+937,Registeel,Registeel 937,P 937,Jolly,King's Rock,Rock Polish,Earthquake,Iron Head,ThunderPunch,Atk/Spe,112,Registeel 2,2
+957,Registeel,Registeel 957,P 957,Bold,Leftovers,Amnesia,Iron Defense,Charge Beam,Flash Cannon,HP/SpD,70,Registeel 3,3
+977,Registeel,Registeel 977,P 977,Adamant,Leftovers,Toxic,Double Team,Earthquake,Protect,HP/Atk,70,Registeel 4,4
+279,Reuniclus,Reuniclus 279,P 279,Bold,Sitrus Berry,Psychic,Energy Ball,Recover,Wonder Room,HP/Def/SpA,50,Reuniclus 1,1
+454,Reuniclus,Reuniclus 454,P 454,Brave,King's Rock,Rock Slide,Explosion,Gyro Ball,Trick Room,Atk/Def/SpD,45,Reuniclus 2,2
+629,Reuniclus,Reuniclus 629,P 629,Quiet,Colbur Berry,Calm Mind,Psychic,Focus Blast,Shadow Ball,Def/SpA,45,Reuniclus 3,3
+804,Reuniclus,Reuniclus 804,P 804,Relaxed,Toxic Orb,Trick,Psychic,Focus Blast,Recover,Def/SpD,45,Reuniclus 4,4
+360,Rhyperior,Rhyperior 360,P 360,Brave,Zoom Lens,Payback,Rock Blast,Stone Edge,Protect,HP/Atk/SpD,54,Rhyperior 1,1
+535,Rhyperior,Rhyperior 535,P 535,Lonely,Hard Stone,Rock Wrecker,Rock Polish,,,Atk/Spe,92,Rhyperior 2,2
+710,Rhyperior,Rhyperior 710,P 710,Impish,Focus Sash,Horn Drill,Avalanche,Payback,Counter,HP/Def,60,Rhyperior 3,3
+885,Rhyperior,Rhyperior 885,P 885,Brave,Wide Lens,Rock Slide,Hammer Arm,Earthquake,Protect,HP/Atk,54,Rhyperior 4,4
+316,Roserade,Roserade 316,P 316,Calm,Big Root,Toxic,Leech Seed,Protect,Giga Drain,HP/Def,110,Roserade 1,1
+491,Roserade,Roserade 491,P 491,Modest,Occa Berry,Weather Ball,Energy Ball,Natural Gift,Attract,Spe/SpA,142,Roserade 2,2
+666,Roserade,Roserade 666,P 666,Timid,White Herb,Leaf Storm,Sludge Bomb,Hyper Beam,GrassWhistle,Spe/SpA,156,Roserade 3,3
+841,Roserade,Roserade 841,P 841,Bold,Black Sludge,Toxic,Protect,Leech Seed,Giga Drain,HP/Def,110,Roserade 4,4
+379,Salamence,Salamence 379,P 379,Naughty,Yache Berry,Roost,Scary Face,Dragon Tail,Earthquake,Atk/Def/SpD,120,Salamence 1,1
+554,Salamence,Salamence 554,P 554,Lonely,Expert Belt,Dragon Claw,Zen Headbutt,Rock Slide,Dragon Dance,Atk/Spe/SpD,141,Salamence 2,2
+729,Salamence,Salamence 729,P 729,Jolly,Yache Berry,Draco Meteor,Dragon Rush,Earthquake,Brick Break,Atk/Spe,167,Salamence 3,3
+904,Salamence,Salamence 904,P 904,Jolly,Lum Berry,Outrage,Crunch,Earthquake,Zen Headbutt,Atk/Spe,167,Salamence 4,4
+223,Samurott,Samurott 223,P 223,Mild,Splash Plate,Retaliate,Razor Shell,Assurance,Encore,HP/Atk,90,Samurott 1,1
+398,Samurott,Samurott 398,P 398,Quiet,Zoom Lens,Blizzard,Giga Impact,Detect,Hydro Pump,Atk/SpA,81,Samurott 2,2
+573,Samurott,Samurott 573,P 573,Adamant,Custap Berry,Aerial Ace,Waterfall,X-Scissor,Aqua Jet,Atk/Def/SpD,90,Samurott 3,3
+748,Samurott,Samurott 748,P 748,Modest,Salac Berry,Hydro Pump,Ice Beam,Grass Knot,Protect,Def/SpA/SpD,90,Samurott 4,4
+245,Sawk,Sawk 245,P 245,Naughty,Black Belt,Low Sweep,Quick Guard,Retaliate,Taunt,Atk/Spe,137,Sawk 1,1
+420,Sawk,Sawk 420,P 420,Naughty,Focus Sash,Earthquake,Payback,Endure,Reversal,Atk/Spe,137,Sawk 2,2
+596,Sawk,Sawk 596,P 596,Jolly,Expert Belt,Close Combat,Payback,Low Sweep,Earthquake,Atk/Spe,150,Sawk 3,3
+771,Sawk,Sawk 771,P 771,Adamant,Life Orb,Close Combat,Bulldoze,Stone Edge,Taunt,Atk/Spe,137,Sawk 4,4
+215,Sceptile,Sceptile 215,P 215,Timid,Focus Sash,Quick Attack,Endeavor,Detect,Leaf Storm,Spe/SpA,189,Sceptile 1,1
+390,Sceptile,Sceptile 390,P 390,Hasty,Scope Lens,Leaf Blade,Night Slash,Earthquake,Swords Dance,Atk/Spe,189,Sceptile 2,2
+565,Sceptile,Sceptile 565,P 565,Timid,White Herb,Leaf Storm,Dragon Pulse,Energy Ball,Detect,Spe/SpA,189,Sceptile 3,3
+740,Sceptile,Sceptile 740,P 740,Calm,Leftovers,Leech Seed,Endeavor,Energy Ball,Toxic,Def/SpD,140,Sceptile 4,4
+303,Scizor,Scizor 303,P 303,Brave,Occa Berry,Metal Claw,Night Slash,Aerial Ace,Swords Dance,HP/Def,76,Scizor 1,1
+478,Scizor,Scizor 478,P 478,Naughty,Insect Plate,Bullet Punch,X-Scissor,Feint,Agility,HP/Atk,85,Scizor 2,2
+653,Scizor,Scizor 653,P 653,Brave,Life Orb,Swords Dance,Bullet Punch,Reversal,U-turn,HP/Atk,76,Scizor 3,3
+828,Scizor,Scizor 828,P 828,Adamant,Occa Berry,Bug Bite,Aerial Ace,Roost,Bullet Punch,HP/Atk,85,Scizor 4,4
+271,Scrafty,Scrafty 271,P 271,Naughty,Liechi Berry,Fake Out,Bulk Up,Focus Punch,Substitute,HP/Atk,78,Scrafty 1,1
+446,Scrafty,Scrafty 446,P 446,Jolly,Coba Berry,Hi Jump Kick,Rock Slide,Taunt,Dragon Dance,HP/Spe,121,Scrafty 2,2
+621,Scrafty,Scrafty 621,P 621,Adamant,Muscle Band,Substitute,Payback,Hi Jump Kick,Focus Punch,HP/Atk,78,Scrafty 3,3
+796,Scrafty,Scrafty 796,P 796,Careful,Leftovers,Bulk Up,Payback,Protect,Drain Punch,HP/SpD,78,Scrafty 4,4
+295,Seismitoad,Seismitoad 295,P 295,Rash,Chesto Berry,Round,Rest,Water Pulse,Sludge Wave,Def/SpA/SpD,94,Seismitoad 1,1
+470,Seismitoad,Seismitoad 470,P 470,Brave,Iron Ball,Fling,Rock Slide,Poison Jab,Earthquake,Atk/SpD,42,Seismitoad 2,2
+645,Seismitoad,Seismitoad 645,P 645,Timid,Damp Rock,Rain Dance,Muddy Water,Earth Power,Sludge Bomb,Spe/SpA,138,Seismitoad 3,3
+820,Seismitoad,Seismitoad 820,P 820,Jolly,Sitrus Berry,Brick Break,Poison Jab,Dig,Payback,Atk/Spe,138,Seismitoad 4,4
+221,Serperior,Serperior 221,P 221,Jolly,Lum Berry,Attract,Leaf Tornado,Dragon Tail,Gastro Acid,Def/Spe/SpD,169,Serperior 1,1
+396,Serperior,Serperior 396,P 396,Sassy,Sitrus Berry,Leaf Tornado,Hidden Power,Mirror Coat,Captivate,HP/SpA/SpD,119,Serperior 2,2
+571,Serperior,Serperior 571,P 571,Calm,BrightPowder,Leaf Storm,Substitute,Hyper Beam,Toxic,HP/Def/SpD,133,Serperior 3,3
+746,Serperior,Serperior 746,P 746,Modest,Choice Specs,Leaf Storm,,,,Spe/SpA,165,Serperior 4,4
+252,Shiftry,Shiftry 252,P 252,Brave,Iron Ball,Fling,Razor Leaf,Brick Break,Swords Dance,HP/Atk/SpD,45,Shiftry 1,1
+427,Shiftry,Shiftry 427,P 427,Rash,Miracle Seed,Fake Out,Extrasensory,SolarBeam,Swagger,Spe/SpA,132,Shiftry 2,2
+602,Shiftry,Shiftry 602,P 602,Hardy,Heat Rock,Sunny Day,SolarBeam,Dark Pulse,Explosion,Def/SpA,100,Shiftry 3,3
+777,Shiftry,Shiftry 777,P 777,Adamant,Focus Sash,Fake Out,Sucker Punch,Low Kick,Protect,Atk/Def,100,Shiftry 4,4
+315,Shuckle,Shuckle 315,P 315,Careful,Binding Band,Power Split,Encore,Gastro Acid,Sand Tomb,HP/SpD,25,Shuckle 1,1
+490,Shuckle,Shuckle 490,P 490,Bold,Quick Claw,Power Trick,Encore,Rock Slide,Bug Bite,HP/Def,25,Shuckle 2,2
+665,Shuckle,Shuckle 665,P 665,Relaxed,Lax Incense,Gyro Ball,Double Team,Substitute,Power Trick,HP/Def,22,Shuckle 3,3
+840,Shuckle,Shuckle 840,P 840,Relaxed,Leftovers,Toxic,Protect,Sandstorm,Wrap,HP/Def,22,Shuckle 4,4
+234,Skarmory,Skarmory 234,P 234,Naive,Full Incense,Spikes,Stealth Rock,Sky Drop,Whirlwind,HP/Spe,0,Skarmory 1,1
+409,Skarmory,Skarmory 409,P 409,Naughty,Cell Battery,Brave Bird,Steel Wing,Swords Dance,Roar,HP/Spe,122,Skarmory 2,2
+584,Skarmory,Skarmory 584,P 584,Jolly,Choice Scarf,Brave Bird,Steel Wing,Night Slash,Rock Slide,Atk/Spe,201,Skarmory 3,3
+759,Skarmory,Skarmory 759,P 759,Careful,Lum Berry,Spikes,Stealth Rock,Whirlwind,Toxic,HP/SpD,90,Skarmory 4,4
+244,Skuntank,Skuntank 244,P 244,Naughty,Shuca Berry,Flamethrower,Night Slash,Incinerate,Memento,Atk/Spe,136,Skuntank 1,1
+419,Skuntank,Skuntank 419,P 419,Adamant,Poison Barb,Pursuit,Foul Play,Poison Jab,Taunt,Atk/Spe,136,Skuntank 2,2
+594,Skuntank,Skuntank 594,P 594,Jolly,Life Orb,Taunt,Sucker Punch,Foul Play,Poison Jab,Atk/Spe,149,Skuntank 3,3
+769,Skuntank,Skuntank 769,P 769,Brave,Custap Berry,Night Slash,Poison Jab,Fire Blast,Explosion,Atk/Def/SpD,93,Skuntank 4,4
+383,Slaking,Slaking 383,P 383,Naive,Chople Berry,Earthquake,Brick Break,Rock Slide,Encore,Atk/Spe,167,Slaking 1,1
+558,Slaking,Slaking 558,P 558,Jolly,Sitrus Berry,Retaliate,Night Slash,Slack Off,Amnesia,Atk/Spe,167,Slaking 2,2
+733,Slaking,Slaking 733,P 733,Adamant,Choice Band,Giga Impact,Shadow Claw,Hammer Arm,Earthquake,HP/Atk,120,Slaking 3,3
+908,Slaking,Slaking 908,P 908,Jolly,Life Orb,Return,Night Slash,Gunk Shot,Aerial Ace,Atk/Spe,167,Slaking 4,4
+263,Slowbro,Slowbro 263,P 263,Bold,Sitrus Berry,Yawn,Psychic,Calm Mind,Water Pulse,HP/Def,50,Slowbro 1,1
+438,Slowbro,Slowbro 438,P 438,Modest,Quick Claw,Flamethrower,Ice Beam,Slack Off,Water Pulse,Def/SpA,50,Slowbro 2,2
+613,Slowbro,Slowbro 613,P 613,Bold,Leftovers,Psychic,Surf,Slack Off,Amnesia,HP/Def,50,Slowbro 3,3
+788,Slowbro,Slowbro 788,P 788,Quiet,Leftovers,Psychic,Surf,Blizzard,Trick Room,HP/Def,45,Slowbro 4,4
+274,Slowking,Slowking 274,P 274,Calm,Sitrus Berry,Psyshock,Water Pulse,Trick Room,Heal Pulse,SpA/SpD,50,Slowking 1,1
+449,Slowking,Slowking 449,P 449,Gentle,King's Rock,Zen Headbutt,Earthquake,Swagger,Psych Up,Atk/SpD,50,Slowking 2,2
+624,Slowking,Slowking 624,P 624,Modest,Choice Specs,Psychic,Shadow Ball,Signal Beam,Focus Blast,SpA/SpD,50,Slowking 3,3
+799,Slowking,Slowking 799,P 799,Quiet,Lum Berry,Psychic,Surf,Ice Beam,Trick Room,HP/SpD,45,Slowking 4,4
+366,Snorlax,Snorlax 366,P 366,Adamant,Sitrus Berry,Body Slam,Wild Charge,Counter,Recycle,Atk/Def,50,Snorlax 1,1
+541,Snorlax,Snorlax 541,P 541,Brave,Sitrus Berry,Body Slam,Protect,Earthquake,Belly Drum,Atk/Def,45,Snorlax 2,2
+716,Snorlax,Snorlax 716,P 716,Adamant,Life Orb,Double-Edge,Earthquake,Crunch,Protect,Atk/Def,50,Snorlax 3,3
+891,Snorlax,Snorlax 891,P 891,Relaxed,Sitrus Berry,Belly Drum,Double-Edge,Earthquake,Crunch,Def/SpD,45,Snorlax 4,4
+267,Spiritomb,Spiritomb 267,P 267,Calm,Sitrus Berry,Sucker Punch,Pain Split,Toxic,Grudge,HP/SpD,55,Spiritomb 1,1
+442,Spiritomb,Spiritomb 442,P 442,Brave,Quick Claw,Shadow Sneak,Sucker Punch,Will-O-Wisp,Taunt,HP/Atk,49,Spiritomb 2,2
+617,Spiritomb,Spiritomb 617,P 617,Careful,Leftovers,Will-O-Wisp,Shadow Sneak,Swagger,Psych Up,HP/SpD,55,Spiritomb 3,3
+792,Spiritomb,Spiritomb 792,P 792,Careful,Custap Berry,Will-O-Wisp,Sucker Punch,Substitute,Pain Split,HP/SpD,55,Spiritomb 4,4
+242,Staraptor,Staraptor 242,P 242,Hasty,Focus Sash,U-turn,FeatherDance,Quick Attack,Endeavor,Atk/Spe,167,Staraptor 1,1
+417,Staraptor,Staraptor 417,P 417,Adamant,Choice Scarf,Pursuit,Close Combat,Roost,Final Gambit,HP/Spe,228,Staraptor 2,2
+592,Staraptor,Staraptor 592,P 592,Mild,Choice Band,Close Combat,Brave Bird,U-turn,Giga Impact,Atk/Spe,152,Staraptor 3,3
+767,Staraptor,Staraptor 767,P 767,Jolly,Sitrus Berry,Brave Bird,Double-Edge,Roost,FeatherDance,Atk/Spe,167,Staraptor 4,4
+336,Starmie,Starmie 336,P 336,Timid,Sitrus Berry,Psychic,Cosmic Power,Recover,Reflect Type,HP/Spe,183,Starmie 1,1
+511,Starmie,Starmie 511,P 511,Modest,Mystic Water,Protect,Psychic,Hydro Pump,Rapid Spin,Spe/SpA,167,Starmie 2,2
+686,Starmie,Starmie 686,P 686,Timid,Focus Sash,Surf,Psychic,Power Gem,Signal Beam,Spe/SpA,183,Starmie 3,3
+861,Starmie,Starmie 861,P 861,Timid,King's Rock,Surf,Psychic,Thunderbolt,Ice Beam,Spe/SpA,183,Starmie 4,4
+322,Steelix,Steelix 322,P 322,Impish,Chesto Berry,Earthquake,Rest,Curse,Stealth Rock,HP/SpD,50,Steelix 1,1
+497,Steelix,Steelix 497,P 497,Impish,Enigma Berry,Crunch,Curse,Gyro Ball,Screech,HP/Atk,50,Steelix 2,2
+672,Steelix,Steelix 672,P 672,Brave,Quick Claw,Gyro Ball,Earthquake,Stone Edge,Explosion,Atk/SpD,45,Steelix 3,3
+847,Steelix,Steelix 847,P 847,Relaxed,Iron Ball,Gyro Ball,Payback,Swagger,Curse,Atk/Def,22,Steelix 4,4
+914,Suicune,Suicune 914,P 914,Bold,Chesto Berry,Calm Mind,Surf,Ice Beam,Rest,HP/Def,105,Suicune 1,1
+934,Suicune,Suicune 934,P 934,Modest,Sitrus Berry,Hydro Pump,Ice Beam,Shadow Ball,Mirror Coat,HP/SpA,105,Suicune 2,2
+954,Suicune,Suicune 954,P 954,Bold,Leftovers,Surf,Blizzard,Calm Mind,Protect,HP/Def,105,Suicune 3,3
+974,Suicune,Suicune 974,P 974,Timid,Lum Berry,Icy Wind,Surf,Blizzard,Protect,Spe/SpA,150,Suicune 4,4
+217,Swampert,Swampert 217,P 217,Sassy,Jaboca Berry,Mirror Coat,Counter,Earthquake,Roar,Def/SpD,72,Swampert 1,1
+392,Swampert,Swampert 392,P 392,Careful,Chesto Berry,Waterfall,Hammer Arm,Rest,Curse,HP/SpD,80,Swampert 2,2
+567,Swampert,Swampert 567,P 567,Adamant,Sitrus Berry,Earthquake,Avalanche,Waterfall,Stone Edge,HP/Atk,80,Swampert 3,3
+742,Swampert,Swampert 742,P 742,Careful,Chesto Berry,Curse,Rest,Earthquake,Waterfall,HP/SpD,80,Swampert 4,4
+361,Tangrowth,Tangrowth 361,P 361,Bold,Big Root,Leech Seed,Ingrain,Giga Drain,Toxic,HP/Def/SpD,70,Tangrowth 1,1
+536,Tangrowth,Tangrowth 536,P 536,Naughty,Yache Berry,Wring Out,Tickle,Power Whip,Bulldoze,Atk/Spe,102,Tangrowth 2,2
+711,Tangrowth,Tangrowth 711,P 711,Modest,Heat Rock,Sunny Day,SolarBeam,Synthesis,Wring Out,Def/SpA,70,Tangrowth 3,3
+886,Tangrowth,Tangrowth 886,P 886,Adamant,Lax Incense,Power Whip,Earthquake,Aerial Ace,Brick Break,Atk/Def,70,Tangrowth 4,4
+266,Tauros,Tauros 266,P 266,Naughty,Liechi Berry,Earthquake,Rock Slide,Endure,Substitute,Atk/Spe,162,Tauros 1,1
+441,Tauros,Tauros 441,P 441,Jolly,Expert Belt,Zen Headbutt,Wild Charge,Swagger,Giga Impact,Atk/Spe,178,Tauros 2,2
+616,Tauros,Tauros 616,P 616,Jolly,Life Orb,Double-Edge,Earthquake,Payback,Giga Impact,Atk/Spe,178,Tauros 3,3
+791,Tauros,Tauros 791,P 791,Careful,Sitrus Berry,Toxic,Protect,Double Team,Earthquake,HP/SpD,130,Tauros 4,4
+328,Tentacruel,Tentacruel 328,P 328,Hasty,Black Sludge,Ice Beam,Sludge Wave,Hex,Toxic Spikes,Spe/SpA,167,Tentacruel 1,1
+503,Tentacruel,Tentacruel 503,P 503,Hasty,Mystic Water,Rapid Spin,Poison Jab,Waterfall,Swords Dance,Atk/Spe,167,Tentacruel 2,2
+678,Tentacruel,Tentacruel 678,P 678,Modest,Focus Sash,Hydro Pump,Sludge Bomb,Giga Drain,Mirror Coat,HP/SpA,120,Tentacruel 3,3
+853,Tentacruel,Tentacruel 853,P 853,Bold,Black Sludge,Surf,Toxic,Venoshock,Protect,HP/Def,120,Tentacruel 4,4
+919,Terrakion,Terrakion 919,P 919,Jolly,Expert Belt,Close Combat,Earthquake,Stone Edge,Aerial Ace,Atk/Spe,176,Terrakion 1,1
+939,Terrakion,Terrakion 939,P 939,Adamant,Choice Scarf,Sacred Sword,Earthquake,Stone Edge,Aerial Ace,Atk/Spe,240,Terrakion 2,2
+959,Terrakion,Terrakion 959,P 959,Jolly,Sitrus Berry,Swords Dance,Sacred Sword,Earthquake,Rock Slide,Atk/Spe,176,Terrakion 3,3
+979,Terrakion,Terrakion 979,P 979,Jolly,King's Rock,Bulldoze,Rock Slide,Earthquake,Sacred Sword,Atk/Spe,176,Terrakion 4,4
+246,Throh,Throh 246,P 246,Impish,Payapa Berry,Protect,Toxic,Circle Throw,Wide Guard,Atk/Def,65,Throh 1,1
+421,Throh,Throh 421,P 421,Brave,Expert Belt,Revenge,Storm Throw,Protect,Seismic Toss,Atk/Def,58,Throh 2,2
+595,Throh,Throh 595,P 595,Adamant,Expert Belt,Earthquake,Storm Throw,Payback,Rock Slide,Atk/Def/SpD,65,Throh 3,3
+770,Throh,Throh 770,P 770,Brave,Flame Orb,Protect,Earthquake,Storm Throw,Payback,Atk/SpD,58,Throh 4,4
+922,Thundurus,Thundurus 922,P 922,Bold,Chesto Berry,Thunderbolt,Protect,Toxic,Rest,HP/SpD,131,Thundurus 1,1
+942,Thundurus,Thundurus 942,P 942,Timid,Choice Band,Thunderbolt,Dark Pulse,Focus Blast,Grass Knot,Spe/SpA,179,Thundurus 2,2
+962,Thundurus,Thundurus 962,P 962,Jolly,Sitrus Berry,Wild Charge,U-turn,Crunch,Sky Drop,Atk/Spe,179,Thundurus 3,3
+982,Thundurus,Thundurus 982,P 982,Timid,Magnet,Discharge,Focus Blast,Volt Switch,Taunt,Spe/SpA,179,Thundurus 4,4
+373,Togekiss,Togekiss 373,P 373,Calm,Sitrus Berry,Encore,Thunder Wave,Reflect,Follow Me,HP/Spe,132,Togekiss 1,1
+548,Togekiss,Togekiss 548,P 548,Naughty,Liechi Berry,ExtremeSpeed,Aerial Ace,Psych Up,Brick Break,Atk/Spe,132,Togekiss 2,2
+723,Togekiss,Togekiss 723,P 723,Modest,Wide Lens,Thunder Wave,Air Slash,Heat Wave,Water Pulse,Spe/SpA,132,Togekiss 3,3
+898,Togekiss,Togekiss 898,P 898,Bold,Sitrus Berry,Follow Me,Thunder Wave,Air Slash,Encore,HP/SpD,100,Togekiss 4,4
+921,Tornadus,Tornadus 921,P 921,Timid,Life Orb,Hurricane,Grass Knot,Focus Blast,Dark Pulse,Spe/SpA,179,Tornadus 1,1
+941,Tornadus,Tornadus 941,P 941,Modest,Leftovers,Substitute,Double Team,Focus Blast,Hurricane,HP/SpA,131,Tornadus 2,2
+961,Tornadus,Tornadus 961,P 961,Bold,Chesto Berry,Rest,Air Slash,Dark Pulse,Focus Blast,HP/SpD,131,Tornadus 3,3
+981,Tornadus,Tornadus 981,P 981,Timid,Damp Rock,Hurricane,Focus Blast,Taunt,Rain Dance,Spe/SpA,179,Tornadus 4,4
+218,Torterra,Torterra 218,P 218,Adamant,Binding Band,Sand Tomb,Seed Bomb,Curse,Synthesis,HP/Atk,76,Torterra 1,1
+393,Torterra,Torterra 393,P 393,Jolly,Choice Scarf,Rock Slide,Earthquake,Wood Hammer,Tickle,Atk/Spe,177,Torterra 2,2
+568,Torterra,Torterra 568,P 568,Adamant,Custap Berry,Earthquake,Crunch,Seed Bomb,Iron Head,Atk/SpD,76,Torterra 3,3
+743,Torterra,Torterra 743,P 743,Hardy,Leftovers,Stockpile,Leech Seed,Earthquake,Protect,HP/SpD,76,Torterra 4,4
+277,Toxicroak,Toxicroak 277,P 277,Lonely,Dark Gem,Fake Out,Brick Break,Sucker Punch,Taunt,Atk/Spe,137,Toxicroak 1,1
+452,Toxicroak,Toxicroak 452,P 452,Modest,Petaya Berry,Focus Blast,Sludge Bomb,Substitute,Protect,Spe/SpA,137,Toxicroak 2,2
+627,Toxicroak,Toxicroak 627,P 627,Modest,Focus Sash,Sludge Bomb,Focus Blast,Shadow Ball,Dark Pulse,Spe/SpA,137,Toxicroak 3,3
+802,Toxicroak,Toxicroak 802,P 802,Adamant,Wide Lens,Cross Chop,Sucker Punch,Gunk Shot,Taunt,Atk/Spe,137,Toxicroak 4,4
+213,Typhlosion,Typhlosion 213,P 213,Rash,Passho Berry,Flame Burst,Flamethrower,SolarBeam,Sunny Day,Spe/SpA,152,Typhlosion 1,1
+388,Typhlosion,Typhlosion 388,P 388,Naive,Wide Lens,Inferno,Focus Blast,Extrasensory,Will-O-Wisp,Spe/SpA,167,Typhlosion 2,2
+563,Typhlosion,Typhlosion 563,P 563,Modest,Choice Scarf,Eruption,Focus Blast,Heat Wave,Extrasensory,Spe/SpA,228,Typhlosion 3,3
+738,Typhlosion,Typhlosion 738,P 738,Modest,Power Herb,Extrasensory,Lava Plume,Bulldoze,SolarBeam,Spe/SpA,152,Typhlosion 4,4
+378,Tyranitar,Tyranitar 378,P 378,Impish,Iron Ball,Rock Slide,Stealth Rock,Thunder Wave,Fling,HP/SpD,40,Tyranitar 1,1
+553,Tyranitar,Tyranitar 553,P 553,Hasty,King's Rock,Rock Slide,Crunch,Ice Beam,Dragon Dance,Atk/Spe,124,Tyranitar 2,2
+728,Tyranitar,Tyranitar 728,P 728,Jolly,Chople Berry,Stone Edge,Crunch,Earthquake,Dragon Dance,Atk/Spe,124,Tyranitar 3,3
+903,Tyranitar,Tyranitar 903,P 903,Brave,Focus Sash,Rock Slide,Earthquake,Superpower,Dragon Tail,HP/Atk,72,Tyranitar 4,4
+344,Umbreon,Umbreon 344,P 344,Impish,Leftovers,Confuse Ray,Payback,Curse,Moonlight,HP/Def,85,Umbreon 1,1
+519,Umbreon,Umbreon 519,P 519,Careful,Chople Berry,Payback,Moonlight,Stored Power,Work Up,HP/Atk,85,Umbreon 2,2
+694,Umbreon,Umbreon 694,P 694,Impish,Sitrus Berry,Faint Attack,Swagger,Psych Up,Screech,HP/Def,85,Umbreon 3,3
+869,Umbreon,Umbreon 869,P 869,Careful,Chesto Berry,Curse,Trump Card,Payback,Rest,HP/Def,85,Umbreon 4,4
+247,Unfezant,Unfezant 247,P 247,Jolly,Enigma Berry,Aerial Ace,U-turn,Razor Wind,Tailwind,HP/Atk/Def,124,Unfezant 1,1
+422,Unfezant,Unfezant 422,P 422,Jolly,Power Herb,Giga Impact,Quick Attack,Hypnosis,Sky Attack,Atk/Spe,159,Unfezant 2,2
+597,Unfezant,Unfezant 597,P 597,Jolly,Power Herb,Sky Attack,Return,Detect,U-turn,Atk/Spe,159,Unfezant 3,3
+772,Unfezant,Unfezant 772,P 772,Impish,BrightPowder,Detect,FeatherDance,Toxic,Fly,HP/SpD,113,Unfezant 4,4
+305,Ursaring,Ursaring 305,P 305,Adamant,Chesto Berry,Thrash,Crunch,Rest,Counter,Atk/Def/SpD,75,Ursaring 1,1
+480,Ursaring,Ursaring 480,P 480,Jolly,Toxic Orb,Facade,Hammer Arm,Scary Face,Yawn,Atk/Spe,117,Ursaring 2,2
+655,Ursaring,Ursaring 655,P 655,Adamant,Toxic Orb,Facade,Superpower,Crunch,Protect,HP/Atk,75,Ursaring 3,3
+830,Ursaring,Ursaring 830,P 830,Adamant,Quick Claw,Return,Cross Chop,Earthquake,Aerial Ace,HP/Atk,75,Ursaring 4,4
+363,Vanilluxe,Vanilluxe 363,P 363,Calm,NeverMeltIce,Ice Beam,Frost Breath,Mirror Coat,Icy Wind,HP/SpA/SpD,99,Vanilluxe 1,1
+538,Vanilluxe,Vanilluxe 538,P 538,Lonely,Occa Berry,Avalanche,Ice Shard,Natural Gift,Giga Impact,HP/Atk,99,Vanilluxe 2,2
+713,Vanilluxe,Vanilluxe 713,P 713,Modest,Leftovers,Hail,Blizzard,Flash Cannon,Sheer Cold,HP/SpA,99,Vanilluxe 3,3
+888,Vanilluxe,Vanilluxe 888,P 888,Calm,Sitrus Berry,Taunt,Ice Beam,Acid Armor,Mirror Coat,HP/SpD,99,Vanilluxe 4,4
+340,Vaporeon,Vaporeon 340,P 340,Quiet,Quick Claw,Wish,Surf,Helping Hand,Shadow Ball,Def/SpA,76,Vaporeon 1,1
+515,Vaporeon,Vaporeon 515,P 515,Modest,Leftovers,Ice Beam,Hydro Pump,Acid Armor,Aqua Ring,Def/SpA,85,Vaporeon 2,2
+690,Vaporeon,Vaporeon 690,P 690,Modest,Leftovers,Muddy Water,Blizzard,Aqua Ring,Yawn,HP/SpA,85,Vaporeon 3,3
+865,Vaporeon,Vaporeon 865,P 865,Modest,Expert Belt,Surf,Ice Beam,Shadow Ball,Signal Beam,HP/SpA,85,Vaporeon 4,4
+209,Venusaur,Venusaur 209,P 209,Calm,Big Root,Leech Seed,Toxic,Synthesis,Ingrain,HP/SpD,100,Venusaur 1,1
+384,Venusaur,Venusaur 384,P 384,Brave,Miracle Seed,Roar,Venoshock,Power Whip,Earthquake,HP/Atk/Def,90,Venusaur 2,2
+559,Venusaur,Venusaur 559,P 559,Timid,Salac Berry,Energy Ball,Sludge Bomb,Grass Knot,Protect,Spe/SpA,145,Venusaur 3,3
+734,Venusaur,Venusaur 734,P 734,Bold,Black Sludge,Leech Seed,Substitute,Sludge Bomb,Protect,HP/SpD,100,Venusaur 4,4
+238,Vespiquen,Vespiquen 238,P 238,Sassy,Quick Claw,Defend Order,Toxic,Protect,Heal Order,HP/Def/SpD,54,Vespiquen 1,1
+413,Vespiquen,Vespiquen 413,P 413,Quiet,Insect Plate,Attack Order,Power Gem,Captivate,Confuse Ray,HP/SpA,54,Vespiquen 2,2
+588,Vespiquen,Vespiquen 588,P 588,Impish,Sitrus Berry,Attack Order,Defend Order,Roost,Confuse Ray,HP/Def/SpD,60,Vespiquen 3,3
+763,Vespiquen,Vespiquen 763,P 763,Brave,Custap Berry,Attack Order,U-turn,Aerial Ace,Destiny Bond,HP/Atk,54,Vespiquen 4,4
+249,Victreebel,Victreebel 249,P 249,Quiet,Payapa Berry,Leaf Tornado,Stockpile,Swallow,Gastro Acid,SpA/SpD,81,Victreebel 1,1
+424,Victreebel,Victreebel 424,P 424,Rash,Grass Gem,Leaf Storm,Sleep Powder,Stockpile,Encore,Spe/SpA,122,Victreebel 2,2
+599,Victreebel,Victreebel 599,P 599,Modest,Focus Sash,Sunny Day,SolarBeam,Sludge Bomb,Weather Ball,Spe/SpA,122,Victreebel 3,3
+774,Victreebel,Victreebel 774,P 774,Modest,Life Orb,Weather Ball,SolarBeam,Sludge Bomb,Gastro Acid,Spe/SpA,122,Victreebel 4,4
+248,Vileplume,Vileplume 248,P 248,Calm,Persim Berry,Petal Dance,Stun Spore,Teeter Dance,Moonlight,Spe/SpD,102,Vileplume 1,1
+423,Vileplume,Vileplume 423,P 423,Modest,Power Herb,SolarBeam,Sludge Bomb,Synthesis,Double Team,HP/SpA,70,Vileplume 2,2
+598,Vileplume,Vileplume 598,P 598,Modest,Big Root,Double Team,Ingrain,Toxic,Giga Drain,HP/SpA,70,Vileplume 3,3
+773,Vileplume,Vileplume 773,P 773,Modest,Lum Berry,Giga Drain,SolarBeam,Teeter Dance,Sludge Bomb,Spe/SpA,102,Vileplume 4,4
+920,Virizion,Virizion 920,P 920,Jolly,Salac Berry,Sacred Sword,Leaf Blade,Taunt,Stone Edge,Atk/Spe,176,Virizion 1,1
+940,Virizion,Virizion 940,P 940,Timid,Sitrus Berry,Energy Ball,Focus Blast,Calm Mind,Toxic,Def/Spe,176,Virizion 2,2
+960,Virizion,Virizion 960,P 960,Jolly,Coba Berry,Leaf Blade,Stone Edge,Sacred Sword,Protect,Atk/Spe,176,Virizion 3,3
+980,Virizion,Virizion 980,P 980,Impish,Chesto Berry,Leaf Blade,Swords Dance,Sacred Sword,Rest,HP/Def,128,Virizion 4,4
+374,Volcarona,Volcarona 374,P 374,Modest,Power Herb,Fire Spin,Heat Wave,SolarBeam,Whirlwind,HP/Spe,152,Volcarona 1,1
+549,Volcarona,Volcarona 549,P 549,Timid,Lum Berry,Bug Buzz,Flamethrower,Protect,Calm Mind,Spe/SpA,167,Volcarona 2,2
+724,Volcarona,Volcarona 724,P 724,Bold,White Herb,Overheat,Quiver Dance,Bug Buzz,Protect,HP/Def,120,Volcarona 3,3
+899,Volcarona,Volcarona 899,P 899,Bold,Leftovers,Hurricane,Quiver Dance,Bug Buzz,Heat Wave,HP/Def,120,Volcarona 4,4
+308,Wailord,Wailord 308,P 308,Brave,Chesto Berry,Waterfall,Heavy Slam,Curse,Rest,Atk/Def/SpD,72,Wailord 1,1
+483,Wailord,Wailord 483,P 483,Timid,Quick Claw,Water Spout,Rest,Sleep Talk,Ice Beam,Spe/SpA,123,Wailord 2,2
+658,Wailord,Wailord 658,P 658,Careful,Leftovers,Waterfall,Avalanche,Aqua Ring,Curse,Def/SpD,80,Wailord 3,3
+833,Wailord,Wailord 833,P 833,Modest,Zoom Lens,Hydro Pump,Blizzard,Fissure,Hyper Beam,HP/SpA,80,Wailord 4,4
+355,Walrein,Walrein 355,P 355,Calm,Chesto Berry,Frost Breath,Snore,Stockpile,Rest,Def/SpD,85,Walrein 1,1
+530,Walrein,Walrein 530,P 530,Calm,Metronome,Ice Ball,Earthquake,Encore,Curse,Atk/SpD,85,Walrein 2,2
+705,Walrein,Walrein 705,P 705,Modest,Leftovers,Surf,Blizzard,Hail,Signal Beam,HP/SpA,85,Walrein 3,3
+880,Walrein,Walrein 880,P 880,Bold,Lax Incense,Sheer Cold,Fissure,Rest,Sleep Talk,Def/SpD,85,Walrein 4,4
+323,Weavile,Weavile 323,P 323,Hasty,Razor Fang,Fake Out,Taunt,Night Slash,Fling,Atk/Spe,194,Weavile 1,1
+498,Weavile,Weavile 498,P 498,Jolly,NeverMeltIce,Ice Shard,Ice Punch,Torment,Protect,Atk/Spe,194,Weavile 2,2
+673,Weavile,Weavile 673,P 673,Jolly,Focus Sash,Fake Out,Ice Punch,Night Slash,Protect,Atk/Spe,194,Weavile 3,3
+848,Weavile,Weavile 848,P 848,Jolly,Focus Sash,Taunt,Ice Punch,Night Slash,Fake Out,Atk/Spe,194,Weavile 4,4
+264,Weezing,Weezing 264,P 264,Impish,Payapa Berry,Pain Split,Explosion,Haze,Will-O-Wisp,HP/Def,80,Weezing 1,1
+439,Weezing,Weezing 439,P 439,Rash,Poison Gem,Sludge Bomb,Fire Blast,Stockpile,Swallow,HP/SpA,80,Weezing 2,2
+614,Weezing,Weezing 614,P 614,Modest,Black Sludge,Sludge Bomb,Thunder,Fire Blast,Shadow Ball,HP/SpA,80,Weezing 3,3
+789,Weezing,Weezing 789,P 789,Careful,Chesto Berry,Toxic,Will-O-Wisp,Stockpile,Rest,HP/SpD,80,Weezing 4,4
+236,Whiscash,Whiscash 236,P 236,Careful,Chesto Berry,Earthquake,Tickle,Amnesia,Rest,Atk/SpD,80,Whiscash 1,1
+411,Whiscash,Whiscash 411,P 411,Adamant,Soft Sand,Aqua Tail,Earthquake,Zen Headbutt,Dragon Dance,HP/Atk/Def,80,Whiscash 2,2
+586,Whiscash,Whiscash 586,P 586,Modest,Expert Belt,Earth Power,Surf,Blizzard,Protect,SpA/SpD,80,Whiscash 3,3
+761,Whiscash,Whiscash 761,P 761,Calm,Leftovers,Rest,Sleep Talk,Fissure,Muddy Water,HP/Def/SpD,80,Whiscash 4,4
+332,Yanmega,Yanmega 332,P 332,Rash,Cheri Berry,Air Slash,Bug Buzz,Detect,U-turn,SpA/SpD,115,Yanmega 1,1
+507,Yanmega,Yanmega 507,P 507,Modest,Sitrus Berry,Psychic,Bug Buzz,Swagger,Substitute,HP/SpA,115,Yanmega 2,2
+682,Yanmega,Yanmega 682,P 682,Modest,Lum Berry,Silver Wind,Air Slash,Detect,Giga Drain,Spe/SpA,147,Yanmega 3,3
+857,Yanmega,Yanmega 857,P 857,Modest,King's Rock,Bug Buzz,Air Slash,Detect,Shadow Ball,Spe/SpA,147,Yanmega 4,4
+910,Zapdos,Zapdos 910,P 910,Timid,Magnet,Thunderbolt,Signal Beam,Air Cutter,AncientPower,Spe/SpA,167,Zapdos 1,1
+930,Zapdos,Zapdos 930,P 930,Bold,BrightPowder,Charge Beam,Heat Wave,Double Team,Roost,HP/SpD,120,Zapdos 2,2
+950,Zapdos,Zapdos 950,P 950,Naive,Petaya Berry,Thunder,Light Screen,Rain Dance,Drill Peck,Spe/SpA,167,Zapdos 3,3
+970,Zapdos,Zapdos 970,P 970,Timid,Lum Berry,Thunderbolt,Volt Switch,Heat Wave,Detect,Spe/SpA,167,Zapdos 4,4
+293,Zebstrika,Zebstrika 293,P 293,Naughty,Electric Gem,Swagger,Volt Switch,Wild Charge,Pursuit,HP/Atk,136,Zebstrika 1,1
+468,Zebstrika,Zebstrika 468,P 468,Timid,Magnet,Discharge,Thunder Wave,Thunder,Rain Dance,Spe/SpA,184,Zebstrika 2,2
+643,Zebstrika,Zebstrika 643,P 643,Jolly,Air Balloon,Flame Charge,Toxic,Wild Charge,Volt Switch,Atk/Spe,184,Zebstrika 3,3
+818,Zebstrika,Zebstrika 818,P 818,Jolly,Focus Sash,Me First,Wild Charge,Thunder Wave,Volt Switch,Atk/Spe,184,Zebstrika 4,4
+325,Zoroark,Zoroark 325,P 325,Naive,Focus Sash,Night Slash,Shadow Claw,Taunt,Counter,Atk/Spe,172,Zoroark 1,1
+500,Zoroark,Zoroark 500,P 500,Jolly,Expert Belt,Grass Knot,Shadow Ball,Flamethrower,Nasty Plot,Spe/SpA,172,Zoroark 2,2
+675,Zoroark,Zoroark 675,P 675,Jolly,Sitrus Berry,Swords Dance,Night Slash,U-turn,Sucker Punch,Atk/Spe,172,Zoroark 3,3
+850,Zoroark,Zoroark 850,P 850,Timid,Focus Band,Protect,Counter,Dark Pulse,Focus Blast,Spe/SpA,172,Zoroark 4,4
